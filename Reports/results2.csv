@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1713191309885,396,https://www.wikipedia.org/,200,OK,Thread Group 1-1,text,true,,79284,501,1,1,https://www.wikipedia.org/,370,0,337
+1713191310323,88,https://www.wikipedia.org/,200,OK,Thread Group 1-2,text,true,,79284,501,2,2,https://www.wikipedia.org/,63,0,45
+1713191310822,93,https://www.wikipedia.org/,200,OK,Thread Group 1-3,text,true,,79284,501,3,3,https://www.wikipedia.org/,63,0,45
+1713191311317,94,https://www.wikipedia.org/,200,OK,Thread Group 1-4,text,true,,79284,501,4,4,https://www.wikipedia.org/,65,0,47
+1713191311815,91,https://www.wikipedia.org/,200,OK,Thread Group 1-5,text,true,,79284,501,5,5,https://www.wikipedia.org/,64,0,46
+1713191312317,92,https://www.wikipedia.org/,200,OK,Thread Group 1-6,text,true,,79284,501,6,6,https://www.wikipedia.org/,64,0,47
+1713191312815,90,https://www.wikipedia.org/,200,OK,Thread Group 1-7,text,true,,79284,501,7,7,https://www.wikipedia.org/,62,0,44
+1713191313315,119,https://www.wikipedia.org/,200,OK,Thread Group 1-8,text,true,,79284,501,8,8,https://www.wikipedia.org/,91,0,46
+1713191313815,112,https://www.wikipedia.org/,200,OK,Thread Group 1-9,text,true,,79284,501,9,9,https://www.wikipedia.org/,84,0,62
+1713191314317,242,https://www.wikipedia.org/,200,OK,Thread Group 1-10,text,true,,79284,501,10,10,https://www.wikipedia.org/,207,0,103
+1713191315520,100,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-1,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,65,0,47
+1713191315622,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-1,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191309825,511,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,183272,1723,10,10,null,450,5302,384
+1713191315638,29,https://www.wikipedia.org/,200,OK,Thread Group 1-1,text,true,,79284,501,10,10,https://www.wikipedia.org/,21,0,0
+1713191315639,92,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-2,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,54,0,36
+1713191315732,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-2,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191310322,195,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,183272,1723,10,10,null,132,5232,81
+1713191315749,28,https://www.wikipedia.org/,200,OK,Thread Group 1-2,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191316145,90,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-3,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,56,0,38
+1713191316236,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-3,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191310821,198,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,183272,1723,10,10,null,134,5234,83
+1713191316253,28,https://www.wikipedia.org/,200,OK,Thread Group 1-3,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191316641,94,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-4,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,61,0,42
+1713191316736,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-4,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191311316,203,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,183272,1723,10,10,null,141,5234,89
+1713191316752,28,https://www.wikipedia.org/,200,OK,Thread Group 1-4,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191317138,92,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-5,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,59,0,42
+1713191317231,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-5,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191311814,198,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,183272,1723,10,10,null,138,5235,88
+1713191317247,29,https://www.wikipedia.org/,200,OK,Thread Group 1-5,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191317637,89,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-6,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,57,0,39
+1713191317727,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-6,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191312316,196,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,183272,1723,10,10,null,136,5231,86
+1713191317743,29,https://www.wikipedia.org/,200,OK,Thread Group 1-6,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191318136,95,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-7,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,62,0,44
+1713191318232,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-7,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191312814,200,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,183272,1723,10,10,null,139,5235,88
+1713191318249,30,https://www.wikipedia.org/,200,OK,Thread Group 1-7,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191318664,93,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-8,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,62,0,43
+1713191318759,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-8,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191313315,228,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,183272,1723,10,10,null,169,5233,89
+1713191318776,30,https://www.wikipedia.org/,200,OK,Thread Group 1-8,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191319154,92,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-9,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,60,0,42
+1713191319247,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-9,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191313815,219,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,183272,1723,10,10,null,159,5229,104
+1713191319263,28,https://www.wikipedia.org/,200,OK,Thread Group 1-9,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191319788,91,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-10,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,59,0,41
+1713191319881,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-10,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191314316,348,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,183272,1723,10,10,null,281,5233,144
+1713191319897,29,https://www.wikipedia.org/,200,OK,Thread Group 1-10,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191320899,71,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-1,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,30,0,0
+1713191320971,26,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-1,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,26,0,0
+1713191315638,126,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,183272,1723,10,10,null,77,5232,0
+1713191320998,32,https://www.wikipedia.org/,200,OK,Thread Group 1-1,text,true,,79284,501,10,10,https://www.wikipedia.org/,21,0,0
+1713191321005,38,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-2,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,24,0,0
+1713191321044,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-2,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191315748,82,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,183272,1723,10,10,null,57,5229,0
+1713191321061,28,https://www.wikipedia.org/,200,OK,Thread Group 1-2,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191321509,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-3,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,22,0,0
+1713191321543,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-3,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191316252,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,183272,1723,10,10,null,55,5230,0
+1713191321560,27,https://www.wikipedia.org/,200,OK,Thread Group 1-3,text,true,,79284,501,10,10,https://www.wikipedia.org/,17,0,0
+1713191322008,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-4,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191322041,17,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-4,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,17,0,0
+1713191316752,77,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,183272,1723,10,10,null,54,5228,0
+1713191322059,29,https://www.wikipedia.org/,200,OK,Thread Group 1-4,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191322503,34,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-5,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,20,0,0
+1713191322537,17,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-5,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,17,0,0
+1713191317246,80,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,183272,1723,10,10,null,56,5228,0
+1713191322556,27,https://www.wikipedia.org/,200,OK,Thread Group 1-5,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191323000,40,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-6,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,20,0,0
+1713191323041,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-6,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191317743,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,183272,1723,10,10,null,53,5228,0
+1713191323057,34,https://www.wikipedia.org/,200,OK,Thread Group 1-6,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191323507,39,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-7,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191323548,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-7,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191318248,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,183272,1723,10,10,null,60,5231,0
+1713191323564,31,https://www.wikipedia.org/,200,OK,Thread Group 1-7,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191324035,81,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-8,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,51,0,0
+1713191324117,57,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-8,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,57,0,0
+1713191318776,168,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,183272,1723,10,10,null,126,5229,0
+1713191324175,78,https://www.wikipedia.org/,200,OK,Thread Group 1-8,text,true,,79284,501,10,10,https://www.wikipedia.org/,61,0,0
+1713191324521,38,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-9,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,24,0,0
+1713191324561,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-9,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191319262,81,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,183272,1723,10,10,null,59,5232,0
+1713191324577,29,https://www.wikipedia.org/,200,OK,Thread Group 1-9,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191325155,39,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-10,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,24,0,0
+1713191325195,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-10,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191319897,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,183272,1723,10,10,null,59,5230,0
+1713191325211,30,https://www.wikipedia.org/,200,OK,Thread Group 1-10,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191326256,39,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-1,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,26,0,0
+1713191326296,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-1,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191320998,86,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,183272,1723,10,10,null,62,5227,0
+1713191326312,34,https://www.wikipedia.org/,200,OK,Thread Group 1-1,text,true,,79284,501,10,10,https://www.wikipedia.org/,17,0,0
+1713191326315,40,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-2,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,23,0,0
+1713191326356,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-2,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191321060,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,183272,1723,10,10,null,58,5229,0
+1713191326373,27,https://www.wikipedia.org/,200,OK,Thread Group 1-2,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191326814,41,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-3,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191326856,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-3,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191321559,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,183272,1723,10,10,null,57,5229,0
+1713191326872,28,https://www.wikipedia.org/,200,OK,Thread Group 1-3,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191327314,39,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-4,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,26,0,0
+1713191327355,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-4,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191322059,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,183272,1723,10,10,null,59,5228,0
+1713191327371,28,https://www.wikipedia.org/,200,OK,Thread Group 1-4,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191327814,38,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-5,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191327853,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-5,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191322555,80,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,183272,1723,10,10,null,58,5233,0
+1713191327869,30,https://www.wikipedia.org/,200,OK,Thread Group 1-5,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191328321,34,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-6,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,21,0,0
+1713191328356,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-6,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191323057,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,183272,1723,10,10,null,55,5231,0
+1713191328372,29,https://www.wikipedia.org/,200,OK,Thread Group 1-6,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191328822,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-7,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,21,0,0
+1713191328856,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-7,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191323564,80,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,183272,1723,10,10,null,57,5228,0
+1713191328873,31,https://www.wikipedia.org/,200,OK,Thread Group 1-7,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191329480,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-8,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191329513,18,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-8,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,18,0,0
+1713191324174,128,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,183272,1723,10,10,null,97,5229,0
+1713191329532,29,https://www.wikipedia.org/,200,OK,Thread Group 1-8,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191329834,34,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-9,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191329868,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-9,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191324576,79,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,183272,1723,10,10,null,53,5230,0
+1713191329885,29,https://www.wikipedia.org/,200,OK,Thread Group 1-9,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191330470,34,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-10,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,20,0,0
+1713191330505,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-10,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191325211,79,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,183272,1723,10,10,null,53,5230,0
+1713191330521,29,https://www.wikipedia.org/,200,OK,Thread Group 1-10,text,true,,79284,501,10,10,https://www.wikipedia.org/,23,0,0
+1713191331576,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-1,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191331608,17,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-1,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,17,0,0
+1713191326311,83,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,183272,1723,10,10,null,53,5231,0
+1713191331625,38,https://www.wikipedia.org/,200,OK,Thread Group 1-1,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191331627,42,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-2,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,23,0,0
+1713191331670,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-2,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191326372,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,183272,1723,10,10,null,56,5229,0
+1713191331686,28,https://www.wikipedia.org/,200,OK,Thread Group 1-2,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191332131,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-3,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191332164,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-3,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191326871,75,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,183272,1723,10,10,null,51,5233,0
+1713191332180,28,https://www.wikipedia.org/,200,OK,Thread Group 1-3,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191332627,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-4,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191332660,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-4,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191327371,75,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,183272,1723,10,10,null,51,5229,0
+1713191332676,28,https://www.wikipedia.org/,200,OK,Thread Group 1-4,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191333125,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-5,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191333158,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-5,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191327868,77,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,183272,1723,10,10,null,51,5229,0
+1713191333174,30,https://www.wikipedia.org/,200,OK,Thread Group 1-5,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191333630,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-6,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191333663,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-6,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191328371,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,183272,1723,10,10,null,53,5231,0
+1713191333678,28,https://www.wikipedia.org/,200,OK,Thread Group 1-6,text,true,,79284,501,10,10,https://www.wikipedia.org/,18,0,0
+1713191334134,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-7,text,true,,100491,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,20,0,0
+1713191334167,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-7,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191328873,79,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,183272,1723,10,10,null,53,5231,0
+1713191334183,28,https://www.wikipedia.org/,200,OK,Thread Group 1-7,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191334788,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-8,text,true,,100492,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191334821,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-8,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191329531,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,183273,1723,10,10,null,53,5230,0
+1713191334837,30,https://www.wikipedia.org/,200,OK,Thread Group 1-8,text,true,,79284,501,10,10,https://www.wikipedia.org/,20,0,0
+1713191335143,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-9,text,true,,100492,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191335176,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-9,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191329885,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,183273,1723,10,10,null,53,5230,0
+1713191335191,30,https://www.wikipedia.org/,200,OK,Thread Group 1-9,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191335782,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-10,text,true,,100492,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191335816,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-10,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191330520,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,183273,1723,10,10,null,57,5235,0
+1713191335832,28,https://www.wikipedia.org/,200,OK,Thread Group 1-10,text,true,,79284,501,10,10,https://www.wikipedia.org/,19,0,0
+1713191336889,31,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-1,text,true,,100492,603,10,10,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191336921,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-1,text,true,,3497,619,10,10,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191331625,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,183273,1723,10,10,null,51,5227,0
+1713191336941,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-2,text,true,,100492,603,9,9,https://en.wikipedia.org/wiki/Apache_JMeter,21,0,0
+1713191336974,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-2,text,true,,3497,619,9,9,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191331685,77,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,183273,1723,9,9,null,55,5228,0
+1713191337434,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-3,text,true,,100492,603,8,8,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191337467,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-3,text,true,,3497,619,8,8,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191332180,77,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,183273,1723,8,8,null,54,5226,0
+1713191337931,40,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-4,text,true,,100492,603,7,7,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191337972,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-4,text,true,,3497,619,7,7,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191332675,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,183273,1723,7,7,null,59,5229,0
+1713191338434,38,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-5,text,true,,100492,603,6,6,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191338473,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-5,text,true,,3497,619,6,6,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191333174,84,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,183273,1723,6,6,null,60,5232,0
+1713191338937,40,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-6,text,true,,100492,603,5,5,https://en.wikipedia.org/wiki/Apache_JMeter,25,0,0
+1713191338978,14,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-6,text,true,,3497,619,5,5,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,14,0,0
+1713191333678,82,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,183273,1723,5,5,null,57,5233,0
+1713191339438,32,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-7,text,true,,100492,603,4,4,https://en.wikipedia.org/wiki/Apache_JMeter,18,0,0
+1713191339471,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-7,text,true,,3497,619,4,4,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191334183,75,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,183273,1723,4,4,null,52,5229,0
+1713191340094,31,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-8,text,true,,100492,603,3,3,https://en.wikipedia.org/wiki/Apache_JMeter,19,0,0
+1713191340126,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-8,text,true,,3497,619,3,3,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191334837,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,183273,1723,3,3,null,54,5227,0
+1713191340452,31,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-9,text,true,,100492,603,2,2,https://en.wikipedia.org/wiki/Apache_JMeter,17,0,0
+1713191340483,15,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-9,text,true,,3497,619,2,2,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,15,0,0
+1713191335191,76,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,183273,1723,2,2,null,51,5231,0
+1713191341091,33,https://en.wikipedia.org/wiki/Apache_JMeter,200,OK,Thread Group 1-10,text,true,,100492,603,1,1,https://en.wikipedia.org/wiki/Apache_JMeter,20,0,0
+1713191341125,16,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,200,OK,Thread Group 1-10,text,true,,3497,619,1,1,https://en.wikipedia.org/api/rest_v1/page/summary/Web_application,16,0,0
+1713191335831,77,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,183273,1723,1,1,null,55,5232,0

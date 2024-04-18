@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+<httpSample t="196" it="0" lt="194" ct="76" ts="1712928516084" s="false" lb="/-1" rc="403" rm="Forbidden" tn="" dt="text" de="UTF-8" by="334" sc="1" ec="1" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 403 Forbidden
+Content-Length: 134
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 12 Apr 2024 13:28:36 GMT
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+Host: preprod.author.eqbs.gcp.onsdigital.uk
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1&quot;&gt;&lt;title&gt;403&lt;/title&gt;403 Forbidden</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://preprod.author.eqbs.gcp.onsdigital.uk/</java.net.URL>
+</httpSample>
+<httpSample t="238" it="0" lt="238" ct="47" ts="1712928519986" s="true" lb="/submit/activity-stream/impression-stats/1/f6bd21c7-6a67-4900-9393-5ddb6e7f7bd1-6" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="794" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Date: Fri, 12 Apr 2024 13:28:36 GMT
+Accept-Language: en-GB,en;q=0.5
+Content-Encoding: gzip
+Host: incoming.telemetry.mozilla.org
+Content-Type: application/json; charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept: */*
+Content-Length: 881
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x13;uR�n�0&#x10;�&#x17;��&#x5;I�}k&#x1b; �5ע&#x10;(jm&#x11;�I��d&apos;���K�N���&#x11;3����&lt;3&lt;�&#x18;�&#x1;]�l{f:�`&#xe;�&#xf;	&#x2;ZT&#x11;!xk��2;&#x4;��Ķ&#xc;�&#x1a;,§�]6l��A�&#x8;q�ɚ��&#x1e;���*�~�&#x4;O	]4�E8&#x18;�N�&#x4;��#&#x1c;͛
+#&#x8;Q?���%¯Fz�J��^G��&#x13;�&#xe;�&#x2;���F����v�&#x7;&#x1c;!�9���^&#x7;�f�UJk�Pl��vP&#x1;�%%&#x1a;&#x7f;ĝZl��D3&#x18;k�+���d�&#x1e;���q&#x1a;��5�3(&#x1a;��?`
+���a&#xe;�&#x1a;��n�G��l�D&#x1b;d {Z\т�H��BT�&#x1d;��z�,^�&#xc;Ͽ؆�&#x18;�&#x8;&#x11;���	���zRΡ�1�#ĩq�����\&#x16;���(dS�$�&#x19;��Ύ&#x2;.�f�f����@&#x13;n&#x1d;&#x1e;�&#x1a;H&#x16;�&#x12;t�&#x7f;�|yz~��DX26���me]W�(ں.��&#x14;&#x1d;9yb�e��WM!:�e�5��Ս�w��E-E]u����)o���۰�q�?���&#xb;�ь�B&#x12;��_�	�7g۶�j��&#x1;c&#x7ba;����e-�sP�nRvB�P�&#xd;p]�
+E3�R\��?�&#x1;Wф&#x3;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/activity-stream/impression-stats/1/f6bd21c7-6a67-4900-9393-5ddb6e7f7bd1</java.net.URL>
+</httpSample>
+<httpSample t="242" it="0" lt="242" ct="47" ts="1712928519986" s="true" lb="/submit/activity-stream/sessions/1/21b5eafd-c46d-406d-a0cc-a6863beb8c53-4" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="860" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Date: Fri, 12 Apr 2024 13:28:36 GMT
+Accept-Language: en-GB,en;q=0.5
+Content-Encoding: gzip
+Host: incoming.telemetry.mozilla.org
+Content-Type: application/json; charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept: */*
+Content-Length: 1008
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x13;uS�r�0&#xc;��&lt;��8&#x4;&#x12;x��~F�&#x17;&#x5;4c쌭Ph�&#x7f;_9-�ۡo�tttt��Wx�0�	&#x3;�j�^�|&#x6;:M11$��3B��ǙK�$&#x1d;��W&#x18;��&#x8;_�궪�鐴C�SdO�#?-儚K�R�&#x17;Ɛ)�&#xc;&apos;�j�&apos;P�Kx�7�&#x1c;(�}Jec`�/D��@�&apos;�^&apos;��&apos;�&#x11;�Q&apos;,�s$�0�TT�&#x1c;&#x13;:�8eb̿�:�7�^kk�,�	&gt;z�&#x13;��Y�;&#x1c;��&#x19;Δɐ&apos;�&#x2;^(3�&#x3;�&#x19;�s7@&#x17;jIO�E�x&#x7f;BN���0%&lt;S�K7��U&#x1b;]d�&#x12;(�&#x1e;��y8�ةR��&#xc;B��&#x1e;�%�ߗjU�1�&#x15;ID��O-�O��&#x1e;u&#x8;��&#x1f;&#x11;�i�b&#x18;�j��Y�}Ӫu�mz&#x1;&#x14;&#xf;&#x6;&#x19;g&#x14;�۾+C�&#x1d;�	�];ݯ���،&#x6;��Ɓ�z&#x3;zc�j���;{&#x13;�I&#x1f;�Hmd�}�W֦��r��1U��Vu��1�ed&#x1f;�&#x1b;8�� *�:&#x15;�9���2:a�\�&#x15;�|�9&#x378;��&#x17;1�&#x18;5d֟?˜9��l&#x13;�&#x15;&#x1f;�\^-&#x12;�}Jc�i�
+A�Wb&#x1c;��B&quot;�VU�&#x3;��1�۷&amp;&#x13;��n�z�2�$�&#x9a;�Υ���H)�0i���t�U�j�ݶ^�M��
+&#x1f;�8�I&#x4;&#x1e;�=�&#xf;�uuۮ~�#yP&quot;mJq$/�.&#x5fa;ثYT�ݺ&#x13;&#x19;�S�\և��Z�[Pv�mM&#xb;�&#x6;&#xd;4���Nm��u��&#x1f;&lt;㖆w&#x4;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/activity-stream/sessions/1/21b5eafd-c46d-406d-a0cc-a6863beb8c53</java.net.URL>
+</httpSample>
+<httpSample t="248" it="0" lt="248" ct="45" ts="1712928519986" s="true" lb="/submit/activity-stream/impression-stats/1/2a81e68f-df44-4b17-977d-1e4f0ea81205-3" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="783" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Date: Fri, 12 Apr 2024 13:28:36 GMT
+Accept-Language: en-GB,en;q=0.5
+Content-Encoding: gzip
+Host: incoming.telemetry.mozilla.org
+Content-Type: application/json; charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept: */*
+Content-Length: 1297
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x13;uT]��0&#x10;�/yƕ����I���kU!&apos;&#x18;�&#x14;��1&#x1c;w���5�&#x13;��o����x�ɵ�ѧp�C�����3	�1�L�｛&lt;I���)&#x17;�Mn�&#xe;ͺ�k{O&#x16;vs[5�q��֓i��&#xf;�C~ښ�w��+-���0�8L�&#x18;�;㑄�Zx&#xf;�.m	�z*��!c�.�&#x1d;�&#x14;�/��!�q$qG��K�&#x1c;�1t��b*��)&amp;�%9�S�~�߬c�&#xc;}�\��&#x13;Ɔ�ط.���3����;����&#x14;�Ї�A�%L9&#xc;{r�|z�&#x6;qE&#x1a;�8���&#x1f;}N&#x1f;��dL�&#x1c;�L�&lt;�&#x7f;��&#xb;ޠ&#x14;�f�Ͼ&apos;lNf�)�|��&#x12;}�\��K&amp;�?�Us���&#x8;+&#x0;�&#x1b;��Cf�&#x1d;�0����UA�m�q�,=�2N&#xd;&#x13;���&#x6;	%�&#xd;^g�&#x1;&#xb;�W���e�k��z��ٵH��)u�������ۯ&#x17;��З���6a۬9㊁�&#x16;��B&#xb;T���m���E���&#x19;0\i��yřR&#x12;87Jq�&#x5;�&#x7;�*.5&#x7;K)3V���&#x1;�
++%(�:js0u���K���Vr#&#x5;&#x7f;�bv�;�&#x1a;s&#x1;Ƅ����jN%e@&#x15;S���㽘��Z�Ah]�&#x19;��&#x1a;��Zn8�&#x15;��|j&#x4;e&#x1a;,�&#x14;�c5=�&#x8;pi�aF��(�J���Rr.0&#x0;�7�s�0&#x7;�$�#5�I(�D&#xd;&#x18;�&#xd;&#x8;n&#xc;��&#x0;+69��9$��&#x10;&#x12;�&#xf;&gt;y�uT&#x9c;2Hm��B)���&#x14;`�Q�&#x4;.�2L�&#x1a;S	K�荡&#xd;�V��&#xc;f&#x19;!,U�&#x8;�0���Ò��\�S)�=)Q	�����	&#x7f;���j��T��M�k���j[J�c��
+&#xb;@Z!4��&#x4;�A�N����&#x5;&#xb;��X�&#x5;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/activity-stream/impression-stats/1/2a81e68f-df44-4b17-977d-1e4f0ea81205</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="255" ct="45" ts="1712928519986" s="true" lb="/submit/firefox-desktop/metrics/1/264fee80-1189-483c-acf9-fa654b1f3507-5" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="876" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:36 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 3784
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��WK��&#x11;�/:䒡�/QT&#x3;Frp&#x10;�&#x12;&#x1b;��d&#x18;&#x4;%Q��H�V��gv��=ER���a,l&#xc;0-�Ū��Ջ/��O{�O��v/�3��&#x1d;�w��z�����v&#x19;Ŕ#�&#x10;!���&#x8;�;�;����L�&#x1b;&#x19;z�9��e&#x16;���@b1�9�v&#x1d;L��4�&#x5;vN�&#x5;��{D�8�ţ�&#xc;�à�&#xe;�]}X�&#x17;=5&#x7;Pa&amp;]&#xf;&#x6;]��&amp;�� e��%��O&#xb;����OjT�&#x1a;#N
+�j�8bL�bRs.a�&#x7f;�&#x3;��&#x1f;�՝�~�
+��C|G�Q���l����5����ԵF��&#x2;q	�tQ�H�SAX�YŢ�M&#x3;�&#x1d;r&#x7;����h�Ơ�.��vrv1-�vv�7�&#x6;_c&apos;&#xf;
+�&#x1;�����&#x12;��ڀ�$FR&#x14;&#x6;����ƴ&#x15;%��F��&#x1f;&#x6;��Ʈ@!�C�&#x17;T���	������c���&#x1f;z���S�&lt;�&#x1a;Z�Yn�z�&#x10;&#x1f;  �&#xd;���ڪe-j&#x4;&#x1;�y#�&amp;m���x[�������y���&#x4;����&#x1f;��&#x11;v&#x6;�;��4&#x2;�V&#x10;�!��K&#x1d;G5.;�0&quot;�&#x10;.	���&#x1a;�&apos;�.�&#x14;N=�G3 z��s&#x6;&#x10;R�I�V�!T0�xU�k�*�!�a!��³(&quot;2�fF&#x1a;�
+ ��/�&apos;�h^�co�@5&#x0;�&#x7f;V���t��H4m�8&#x6;&#x7f;j&#xc;Y&#x1;�&#x12;^���&#x1a;���	|�z�{4�@��G�O��q��&#x5;`�]V�&#x1d; �����&#x11;�&#x15;�W&apos;&#xc;�&#x14;w��45&#x14;��t&#x0;0@l�&#x1e;v�K�مʵ&#xf;�^�!�+XN�&#x10;&#x1d;&#x16;r6�^/�~�o��,�|!�Y&#x3a2;��g��n&#x1e;���2!�y��&#x16;�0,)&apos;����&#x16;���&amp;3��&#x1b;#*|_�&#x3;&#x14;�ƯK8��&#x14;J��&#x2;&gt;*�E�qIQe&#x18;T�&#x12;N_Q���eG�Z3A&#x8;l���y���j��Z&#x0;C� ���?�;����a&#x1d;���~�&#x12;!&apos;�U}&#x13;&#xb;��&apos;�I&#x3;&#x14;�Ȣn&#x1e;�&#xb;ԙV�sP���┷j�~���~�~��O?���&#xf;�����ꇟ�_CDGe�����f���ɷ&#x12;��_��7��ۧ&#x0;{��C���C�)gץ	&apos;h4t05j&#xf;Qu�J��&#x1;ܕ�72&apos;�&apos;R&apos;&#x1d;{翭�Ǯ���`u�f�C$����N���&#x7f;n�[5���&#x10;VzM&#x4;&#x7f;h�Z(�@5j?�y&#xd;�C�Wg&#xd;\&#x7f;^��)��zN�&#x1c;&gt;/aa2&#x10;2v�=|&#xb;$��&#xb;�&#x14;!�B�I�c�G���z=(&#x7f;��h�Q?�u�&#x10;*y��ݍH3�qRQ#�&#x13;F(&#x1;uმ��
+G�}Vȟ�v&lt;d&#x1a;r^�G=����&quot;�V��C�BE&#x1f;&#x0;��:Ӧf�&#x6;&#x1f;�d����9?ׂ�:�L-ESk�H�A��5G�05��R�&#x14;�l��u&#x19;&gt;�_��c�&#x2;p&#x15;岃���}�t&lt;&#x1e;��a���S���d�;�]�٧���&gt;&#x7f;�!wo�׃�&#x1e;v&#x1;�&#x0;��&#x0;D��dcA�|���6�A��b{�d�&#x0;&#x17;&#x2;(��f�y?������J&#x10;&#x6;߁P��M���&#x1e;�&#x0;P&#xf;�4��cq&apos;��)&#x15;���[ds?�y*&#x5;�i&#x1c;Tg K&#x15;&#xc;�!�È�ڭr�^��	�`��S��&#x3;�5�&#x18;17Ћ�&#x1d;���&#x15;�&#x6;&#xe;!�&#xe;nA.�+z���U�&#x7;�&#x4;9&#xc;#����M�&#x1f;��&#x0;�,w�i�A&#x7;��&#x7f;��W�&#x1d;h�^&#x6;S&#xb;lS�&#xe;��1�hp�v�n&#x5;.Y%�Ӡ1L9�u�ƞ���S�x&#x1f;m�\J�&#x15;�&#x1c;ĵ
+�&#x19;&#x1d;v&quot;X)�&#xf;�@X0&amp;�:�x&#x0;��`5B�0�*�&#x1d;8��-�&#xb;�����%n��łn_�t@�ܕT��cW��&#x18;�&quot;@�a3��&#x12;Sq��@&#x1e;_�
+!�Fp)&quot;��&#x1b;��
+�e&#xc;�p�q&#x0;{�Q�&#x1f;&#x18;$��]���d�ȭc&#xc;8&#x16;&#x10;��:U���)FРݩ)�ӕ���&quot;��&#x5;�u���&#x1d;R&#x18;N�hB���*�ܱb�yNd���hw�ml?
+\&#x10;{�Sc=t�)*ʜJ�&#x7;�ء��B&#x11;��	ݰpz9Λh��&#x8;&#x7;�73�=&#x11;&#x1f;�ޛɤ&#x11;��v	��aV\ƇS9��&quot;bREo�}�M^�!hq���`�j�Q���&#x8;����%�T�[&#x2;O~Y�]�O�&#x18;ٮӃ3�&#x1a;�&#x1b;�٫We&#x17;&#x5;w 3�&#x16;b��1;�e����Z&#x5;�&#x1f;&#x1f;�d�5&gt;n���&#xb;�ь&#x16;F��	��}��M^�]&#x7;&#x19;&#x14;���&amp;&#x10;�UL!)H���;&apos;4��(.b^��n�2f�&#x10;,
+P��&#x6;�6���&lt;�&quot;�&#x17;2��Ԙr�J�L$&#x3;p&#x7;Kz�&#x4;���Q��v��+��&#x17;�;�pZǛ�H�azNz���Ȥ�@�Ƈr&#x13; xC��&amp;AIRQʴP�����T��ڎ�i��� �&#x4;�&#x16;��;�6�E��,	&#x8;��m3H�&#xd;&#x11;�J&#x14;�X~McM��?�&#x1b;VH�vM&#x19;��VV@�-��&#x4;�\�&#x8;�d�&#x15;&#x12;�&#x14;�ݨ�&#x12;3@���t3&amp;E}&#x15;(��&#x18;�����&#x1c;\&#x3;UV2)#�!2�,��t�&#xd;IV�&#x1b;�[K�v�1�|oL�&#x2;&#x0;�%���t&#x6;&#x7f;J��&#x16;OgD1&amp;ʲ���	&apos;��0�8�X�q&#x12;;&#x3;&apos;&apos;|�&#x12;Yp*�������MC&#x13;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/264fee80-1189-483c-acf9-fa654b1f3507</java.net.URL>
+</httpSample>
+<httpSample t="218" it="0" lt="217" ct="31" ts="1712928520268" s="true" lb="/submit/firefox-desktop/metrics/1/01885f7d-6dc9-42e9-a735-a4f8ba66bc35-7" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="872" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:40 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 4548
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��X]o�&#x15;�/�З.&#x15;~�&#x1a; h&#x1f;R&#x14;}i��y
+&#x2;��([�F�Շ��E�{&#xf;)�&#xc;glo�&#x0;�&#x2;��Dޏs�=���ݱ�o����n�&#x1f;w{)&gt;�ٍs1�&#x7;���8�PA&#x18;��rO�_)���&#xf;;�&#x5ef;&#x588;;N���&#x5cc;�MC�&#x15;���&#x7;_/�&#xf;;_�~��~���q�a��А���&gt;�x&#x1a;�ʓf&#x18;�t&#x1c;�i&#x18;}M��8���{����&#x3;&#xc;WC?�@�:�.|�}�&#x18;����
+My�&#x1d;g���&apos;�YJ�V�xS��Q^kð}�t&#xc;���\&amp;�Ŵ��7&#x18;�&#x1e;�3	/RߧE��΅+}Y:�=WDڒ&#x12;�TM4~)&amp;r*r�U߇�&#x5;��$a�t��w���!�&apos;���C�m&#x1f;&#x1f;^E�&lt;�Z0&quot;�&amp;R喔�3&quot;��M��[�&#x18;Y5=��p&#x1c;�K&#x14;&apos;�i$�we��e�Wвe�&#x7f;�&#x11;�&#x0;�d*�&#x16;�&#x8;a�┕Rگ��&#x1c;�GW����k�&#x1f;�7C���98�&#x3;�T���&#x58c;P&#x4;�&#x10;&#x1b;IJj&#x1a;R	�ˊ1i&#x19;��L~&lt;&#x12;&#x7;�&#x2;����O&apos;��8��v��y@����f_�����6DRD�(���Ie&#x1a;�T_��0|n�ι�&#x1a;&#x16;4 �&#x18;�ҍ�\�y�I�&#x1b;�t3yj��l�v�D�K;�&#x10;
+� ���$�&#xf;`�5��&#x5;�&#x19;�-+M&#x1c;�A:�Ⱥ4B�Ƭ&#xd;�&#x2;�O-t�&#x1c;ZTx�O��&apos;�=���X&#x3;K�f�&#x7f;&#x1f;SFm�&#x1b;]&#x12;js&#x4;�hO,�&#xd;�6���5��
+��&#x1b;�&#x16;��Rz�z1ՏE��]�DƲ �M;Ns1.}Q�y&#x13;PA(����3n:}g���;ew�{��&apos;�&#x11;R������&#xb;�AN9�xi&#x1a;^�Nh&#x16;��&#x1d;�E�N��}*��&#x18;�&#xd;N��х���C`�r�&#x4;7*&#x10;k���s�s�oK�&#x7;����&quot;&#x1f;u �J�r����X=@��y&#x19;CR/V&#x17;Z�&#x2;&apos;&#x1;U[Ea� �����Εn��ُٳ{��q*pt&#x14;�q��4&#x15;kE�\&#x8;��k�&#x3;�S����w��&gt;a�4Ƅ��+�V��L�&lt;&lt;�Om��}��H&#x1b;�$Zw�&#x1e;=&#x1e;&#x18;��^v�
+&#x11;�#Ū@&#x7f;&#xf;�&#x18;&#x16;�~~&#x1e;�G�I6&#x1d;}�t.�F&#x1e;&#x0;��&#xb;���C�&#x16;�Fl+V?E�&#x1e;Z��&#x14;��*xh&#x16;�ə�0�&amp;_&#x1d;�x־ʾ8L7&#x0;&#x8;�F�6�M���o$&#x1f;v�sg�S&#x6;&#x16;�bj?��O�&#x17;�0?���Qy�&#x4;�jFFSЅC��r�&lt;#���8&#x7;��(����C%и�+&#x10;&#x12;���X���p̖c����&#x15;����&#x2;�&#x4;�)��&#x1e;���؀C��&gt;��Ϟ\��Q*�0�LXS&#x2;�X�/&#x17;Ʊн%4&#x10;{V��c�2pz�2(�&#x13;&amp;���s�b�}��&#x1b;�M&gt;h&lt;l`~� �Qq\�x?��u�����&#xf;*5&#x14;�0oow��w?��ǟ~���������&#x1f;w������3����S��c�Ѓ0�p&#x0;&gt;S&#x16;&#x1c;�j&#x0;� =��2&#xf;��3e&#x2;Cr&#x1e;�������b��^Q�&#x7;&#x1a;�&#x8;ש&#xe;	�+��Yv�ʦ���$&quot;z=�q��&#x1d;�{��TfR���]&#x1b;�\9=�A���&#x7;�Σ#5w�n&amp;�5o��&#x1c;4�0�m�&#x2;�q*\]&#x7;p&#xf;e&#x5fc;eH����(��:1�huc�iD�Ss�&#x7f;�f��4&#x1b;&#x0;�&apos;����WԼ�&#x4;&#xf;�2^�&#x4;wLo��T[�� ������,4q�&#x5;j&#x1b;q��݇w֬��A�j�v�_-�&#x1f;&#x6;&#x4;LJR��&lt;�z&#x3;(dV&#x5;�T&#xe;&#x0;&#x17;&#x7;�&gt;~�`7��G7����X�_�0�����l&#x18;���45���&#x1;ػ��w#�Y��&#x18;M�I(�t\e#��x{Zp.�lc(��B�p&#x1a;�j�],}�~L�&#x1d;��P�z���i&#x1e;&#xe;�F�1�Ea�&#x12;��[�F��	@ tC�嵕�n� w{�-��S�?��� �&#x14;/�`&#x1f;v&#x2;�LАi�\s�i���6j$�&#x6;W}�γL�N&#x1a;���*�$�j0��R&#x12;�|I07���ej&#x13;@:���Kl?�&#x7;&#x8;&#x12;&#x6;�zx.N��F��&#x1;�p���y\��]����D8�0&#x7f;�0�&lt;&#x16;�X`����&quot;�7^7&#x16;��n&#x3;�c�~��3i
+�)�:���&#x1f;��r����y&gt;N�o�y~~��&gt;�0f|����Z�o&#x3;G��%4�_&gt;~�Q7�\�&#x4;Kf�&#x1a;�ڸ6��&#x3;r��&#x15;�#��&#x12;&#x16;�&#x15;H�Ås�s&#xd;f&#x5;Zq!��oL&#x14;���P
+&#xe;b�bF&#xb;iM܀�@ኇ��&#x6;&amp;p�&#x14;2.&#x12;B))&#x5;����&#x15;Y�Ǌ&#x19;i)��&#x1;�5��y&#xf;&gt;�&#x1a;�&#x5;�&quot;�&#x15;
+&#x17;&#xb;��&#xf;�Q�CB�]+��a7���56��77,�:��1&apos;)��5څ��0��{�s.B���V9&#x13;z}���Xm욒Ɯə^��D�[a�-�V&#x19;�&#x6;&#x5;St�-Y.&#x5;�1UC��&#x3;jX������&amp;�w%WC\�&quot;�58|`�&#x19;�U�͕5�n�&#x18;��@�,��J�&#xd;M�&#x11;��l-��&lt;gt&#xd;&#x1c;?�&#xe;&#x0;�X�D��&#x1;����*���\���glP9R��{��0�6�&#x11;�k��&#x1a;��&#x14;k���ke��8�@#T��&gt;&#x16;V��T�E3�g�ʚn�&#x11;[/��1]�O�&quot;&#x5c8;�D&#x15;6/�3����1�k�`��+�Y�lĒƚ&#x6;�Q-�&#x12;�[@I���&#xf;���g��&#x1f;&#x18;��s��^wƙw�&#x6;�&#xb;��&#xd;�g��&#x14;8�v&#x10;K�v��sk�0��Y캚���	&#x17;�u#_�tC�s/��fi&#x7;Ф�n%!���nz�L�W�&gt;�&#xe;OZ)m&#x19;��U�14� M��&amp;&#x12;@��}֒��2ў&#xb;G��i@��%����&quot;���&#x16;��dW����I8�F&#x1f;&#x12;���j���FT/�&#x8;&#x17;�T�RJ]	҅�*�[u�s&#x17;Bߊi��g�S�a	&#x19;DB$v�&lt;WBwf��*���S*Ʉ���&gt;g�˄&gt;&lt;a���ϹKd�&#x0;W�H�����$=-�x�Hf�&quot;��@����V�|�0��O���IW˥i01�;䍨2�	�])g±&#x18;O�ձ��_�o2�q��S,�DEm�:)�X�&#x0;�	�I�NDږ&#x5;&#x1d;&#xe;�cl��y�ih&#x6;&#x1d;���_�ӽ&#x18;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/01885f7d-6dc9-42e9-a735-a4f8ba66bc35</java.net.URL>
+</httpSample>
+<httpSample t="253" it="0" lt="252" ct="29" ts="1712928520512" s="true" lb="/submit/firefox-desktop/metrics/1/00947cb7-4c58-430a-a786-94e139166fdf-8" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="870" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:40 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:40 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 3565
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��XKo�6&#x12;�/:�eM&#xd;ߏ&#x6;��C&#x16;��l��9&#x5;�@IT�`���(?Ƙ��&quot;Ւ��{&#x12;&#x4;�́M&#x15;��_}��_��n�Y�V]rxMF�99p~���&#xe;&gt;���%��b�&#x11;f��{�&#xf;��&#x13;�&#x3;��]���&#xc;�&apos;�@�*38;v-H&#xc;n,N��&#x1a;&#x17;N&gt;�n���&#x1f;�]��];�];�s}&#x1c;��%�����&#x6;���/v(&#x11;!&#x12;&#xd;]�t�&#xf;�����	4&#x17;]�a?����
+� &#x18;���&#x4;	�uE+�#�&#xd;F��&#xe;i�+Dy�\&#xe;�W�����&#xf;wi�s&gt;����_�s��J&#x14;&#xc;�JԸG� &#x1a;%&#x10;���5pM&#x7;&#x1e;�?��c&#x1b;w�&#x1e;&#x1b;�&#x8;�� nL��0&#x1a;��&#x11;İ�UAa-E��&#x15;�Տ���&#x1b;�&#x18;fs��&#x16;QG&#x5;�:��
+Q&quot;	+A��̰o�2�&#x10;�ҡ��|S&#x1f;O���x��&#xf;F�&#x2;&#xc;E!�.%A8�&#x1c;qRq�cU��&#x11;�&#x17;�pMpt�&#x18;&#x1f;&#x17;�,���&#x17;�ڼq�M�&#x1b;�輂&#x7f;�&quot;E&#x0;&#x19;ND&#x8;&#x1;�1m&#x5;�&#x4;&lt;��&amp;M��n&#x1a;k������w]��&#x1;�����Uvj&lt;z��:��ڿ �\�&#x1e;&#x12;&#x12;M�&#x1b;&gt;&#x6;&#x11;ٿ&#x0;#��4%&#x3;&#x6;K&#x2;W�D���+Y�2W��JE��l�l�&lt;`xv~xYt�~p�u7�[&#x0;���Ds�rRa�#Y�
+q&#xc;A�&#x18;�&#x6;w	&#x17;��U��c�&#x1b;]�Ɠ&#x1d;\X&lt;vu�P�&#xd;����&#xd;�����ڻ���&#xf;J&#x3;���
+�&#xe;8�1�R8�Tn�Ŵ���&#x7f;��M&#xd;��R�&quot;���C�Ou&#x13;�	��4��E:F�
+e���8&#x6;y��N&#x19;J-r\U��-�����&#x1e;F�&#xd;S���_j.C�@]^�m��|&apos;F��&#x1d;���&#x1d;����ﳲ&#x1e;�ƾd�n&#x8;�7� *zg��&#x4;(&#x16;~&#x1a;��g-3�/���m[�Ċ&#x1e;&#x13;&#xd;�;�;��&#xe;Ou{�Z.&#x1c;|Ěr¨&#x12;:�n�Q�20&#x18;r&#x5;���&#x18;����U^�#Xh�G��el
+�&#x1b;&#x8;�n&#x1a;v �&#x13;��C�&#x15;&#xf;&#xd;$Szn�*�v6�b�ʺ�t�_;&#x16;E��&#x13;z`�y�)����Z77�}�&#x3;&#x5;z���&#xf;&#x14;4&#x16;|&gt;we]ծ̆1�e	���ySmz&apos;V�D&#x7;EB�T�?q��=m/�Q&#x1;�&#x10;��T���8@&#x19;*��&#xf;&#x0;��|tl�Ȗ�\n�-p@�&#x81;���_�qR��&#x16;&#x16;�gMg���5��M��F̧�����g���� +˹�L!&#xd;^��&#x1d;m񒮙�n���Z&#x16;��&#x14;&#x15;T
+�s���&#x11;�qcK&quot;�*���0�&#x0;��PPi#�^����nx�Oi	�W������&#x3;��s8r�H�&#x8;EN�%P���$9��&#x4;�&#xd;5�q�hɨf�A�&#xf;���D&amp;&#x7;&#xc;?(�F����&#x12;N&#xc;g��&#x13;�(�&#xc;M&#xe;&#x14;d&#x18;�t6�s��6�YF&#x19;�&#x2;G&#x19;j��1%�S����p����&#x1f;J2�ռ6�lAQ0`����/&#x1e;&#x19;�0�MSE��f�@8��/����m��R&#xb;Lf�&#x4;�&#xf;%�Y%��bM0�U�&apos;|&#x10;&#x1c;�&#x5;6+UX0#.�&#x1;`B&#x6;�&#x2;d�(BE\Sl&#x14;&#x11;t��&#x0;�T�iP*	&#xc;&#x1e;a-&#xc;�y&gt;�A�a��2&#x4;s-���C�`&amp;�&#x14;��t&#x6;w&#x18;&#x16;�
+�a�*�&#x3;d�m&gt;����+*�.0E��r��jw�&#x5;��w&#x7;�&amp;R[&#x1c;wa�^rǩ&#x15;l�&apos;�JI�!�5a��oI�7�$W�Yc~M7*��&#x18;�=��&amp;�xO���[r&#x7;E&#x4;L3���$W���pǒ%A�&amp;A�U;&quot;-�&#x10;&#x10;&#x0;F�&#x7;��Y&#x8;V���Z[��&lt;�W�XqgWWY�I��^�(����6w��_YE�X�����_��C��}:n�be9�2���DInBL�&#x19;�!�6�ք���&#x1b;ҽ%&#x9a;�&#x12;K��&#x16;q$�Fߝ���&#x10;�!�&apos;&#x18;���&#x7;�#�\&#x1;�&#x0;&#x1e;�ٓ}pS�g&#x1;�n&#x7;�����&#x5;��Q&#x1;bq�8�D4�y������[��&#x10;&gt;�`��ζ������&#xb;&#x10;O�f84�K&lt;�`�k� ��C�&#x18;��8��z&#xc;��(&#x7;��m&#x1f;&#xe;�ݕ��i�^��}?&#x1e;&gt;}zzzJ�]&#x7;�UZt�O��&#x7f;�����E�=�&#x1c;����]h�&#x1;?h���8X��&amp;�W���.k�e�H&#xe;�&amp;����_~�����}����o���Wgh��U4?sލy�&#x12;c&#x16;�����`�&#x10;�[�� n�&#x0;^&#xc;�&lt;Կ&amp;Y��&#x13;�� l&#x18;(&#xb;&#x14;�&#x10;�y&#x17;��җ&#x1d;�&#x7f;ad=@��}Q&#x18;{WL&#xd;8���Q&#x18;x&#xb;8&gt;y&#x0;+Z&#x18;��p�XM�&#x12;�M���&#xb;&#x1f;3�+A&#x1b;�*��-܂|]�|&#x1f;�%h�X��8f�7��f���4G4��x&#x1c;�z�ó��8��6���E��hM���N�B�+&#xf;o�m��&#x14;�^��a&#x17;��&quot;&#x18;��˳��u9xX�&#x11;&#x1b;�/[7�nD���w?3�H&#x8;&#x13;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/00947cb7-4c58-430a-a786-94e139166fdf</java.net.URL>
+</httpSample>
+<httpSample t="234" it="0" lt="233" ct="29" ts="1712928520788" s="true" lb="/submit/firefox-desktop/metrics/1/d863ae06-b5c9-46a5-804f-31e68d571d48-9" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="894" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:41 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:40 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 3985
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Xێ�&#x11;�&#x17;=�%�6�&#x14;&#x1b;0�&#x7;&#x7;A^b#&#x1e;?&#x19;�@IԴ2j���̮&#x17;��&#x1c;R}�zf�`&#x11;�&#x2;�-��&#xe;�N���/٩&#xd7ca;�o�l�%����^��l��8&#x17;s{��&gt;�KB&#x5;a��=W&#x7f;�tOi����~sF=2���zf�n&#x1a;z�&#x18;�T&#x1d;|�t&gt;X~:�&#x11;��&lt;�q�&#x13;q5�}�~&#x1e;?�q�a��i�/�Ld&#x1e;&#x8;cy8\���&#xe;�X&#xd;��s��&lt;�����0��G�&#x13;ڗ���$��&#xd;�TJ�hI��-��4��r�ϟO�&#xe;}{,&#x11;�&#x1c;:������~�5	���t��w��&#x13;$�&#x1b;��M&#x1e;��&#x7f;C�~��{�VyƵ`DZ[&#x13;�lNJ�&#x19;&#x11;T�M��Y��쒠�!���&gt;|x&#x19;�ʓf&#x18;�t&#x1a;�i&#x18;�}&#x1e;NS;����OS�p�&#x19;ih�d9%�V�xSZ�(��a&#x11;_5���x&#x1a;�[�.NS$�we����W`��&#x6;&#x7f;rG&#xc;Cm%S!gB&#x12;!r�8e��y��õv&#x1b;&#x14;��&#xf;�d�+}Y:�=WD�&#x8;䔪��&apos;ń�&#x8a;?d&#x12;&#x1c;�~jQ&#x16;rl�F7�#i�K�^���X�H��4}}�&#x18;�&#x1b;����&quot;9��$�!\�Ɨhۆ5&#x11;�r&#x2;��&#x7;��]�t��&#x5;2�����&#xf;rUU��f�&quot;�G#IIMC*�tY1&amp;sF����ڮs���&#x5;
+&#x1;&#xe;&#xf;]�FR.�վqK7��vj˶k���&#x7f;j�&#x19;JF&#x16;H�������q&#xd;��&#x5;$@3dOV�8V�1u#��&#x8;�&#x1b;&#x3;ȑ�]&#xb;���^�����\�.�Sb�v��M;Ns1.}Q��,��PF��Jg4��g�����&#x1e;&#x7f;�&#x7;/�#b����&#x13;�&#x5;�jPy˹#^��ץ&#x13;�1����
+*��9�Lp��&#x1e;��:@3�y&#x19;C�O�.���&#x1;*�}��&#x5f6;�ߊ&#x17;?&#x6;J&#x7;&#x1f;b&apos;�ł�����wQ�c럟��t���Č1&#x3;�Pr����JU�4&#xf;�p&#x18;�P�x&#x12;	Ÿ&#x18;���zֻ�e*�E_&#x17;&#x18;%ū{��)�{qݲ�&#x1d;��V���g{f����!�ٞ&gt;d&#x14;ϴ�&#x11;yZ��,(&#xb;E&#xc;�^&apos;&#x1a;(�&#xd;�s&#x7;&#x14;�ΡVǡn�&#x16;�&#x10;��5&#x1a;�8�]��&gt;j&#x1e;Y�&#x17;j�̎��Vǫ�cW6&#x5;f�t�s�&#x18;��O��&#x5;&apos;�&gt;2&#x1e;\P��\�\���iD7��r
+ c&#x6;�&#x8;l}P\�k�&quot;�&#x1f;�x�_Eh;�&#x1;!O �۰&#x7f;B%�&#x1d;����nw��aX�&#xd;�&#x1f;��&#x1f;n�����I&#x2;&#x11;����&quot;h�حkB`���Om�w��}	�����N�PE&lt;���&#x7f;�#���Y6ޞ?��i�&#x7f;������i&#x18;p�]5&#x1c;�Y���6&#x5f7;�j������ӯ�&#x6;P&#x1d;&amp;&#x2;�]D�ZU�&amp;�@7T~�
+�&#xc;}��*&#x8;Q�&#xe;���d�5l*&quot;�9��rk�`���u&#x18;�qj7�|�t0{�F��&#x2;�&#x5;ȑ���&lt;&#x1;�	i�sѵ�&#x8;&#x1f;,0�
+��&#x5;�f���xڝ����&#x15;���C�M&#xd;y���ŧ�ڧ�l���&#xd;�&#xe;�&#xe;o&#x7f;�	WQ��&#x15;�0&#x1f;����`�1&#x10;�
+���#	h7&#xc;��e��W��&#x1e;2*���G�:�&#x1b;���	d&#x3;��7`J�UK&#x1b;S��&apos;W}�]�v�*�/s]�N&#x12;V5X�d)I�|I0������6��Af�&#x3;&#x7;�ƶ&#x7f;�j�
+;&#x15;�P�å߲���O���&#x1f;~��_�&#x7f;������&#x17;8�uq���t�&#x6;&lt;&#x1e;Ë&#x1e;���#.3�B��:�&#x12;&#xc;CGL&apos;��&#x19;�E|��:�w�&#xd;�q��&#xe;�U�u�����Y;���]&#x1d;��z���s��뚳����o���n��&#xf;{,&#x2;=�9L���Z�������y����C&apos;&#x18;&#x13;Qq����CP��&#xf;�]�O���=�yG� fU8�����&#x12;&#x1f;�M��&#x187b;��Z����&#x19;�ty&#xd;�5�&#xd;&#x2;�&#xd;�3(���:�&#x4;~&#x1f;&#x8;&#xc;4��ȥf�A�a�&#x19;f���P�a&#xc;~��&#x7;�&#x10;&#x18;�V��sn��W&#x3;i�&#x12;&#x18;�q4ri���&#x1c;=Y��.F&#xb;��䊮g�5L���M&#x1e;�Ⳓ؃�]�&#xb;Ťa�ů-a�#8�Laa��)�^�y��&quot;��9�w��&#x1b;,�B�4���&amp;@
+0��V�՚�&#x1c;���&#x15;B))ϗP����&apos;m��l�ȬU&#x8;�&#x82;�&#x8;{�&#x13;p�\&#x1b;�����r��/$���5
+�L&#x19;�#&#x14;�%���&#x15;�ʍ�T���Z�]&#x1;`&#x16;?&#xf;�^&#x11;3&#xe;�32�P6&#x8;�z[.&#xc;�J�&#x18;�&#x8;��&#x8;�fH�\���&#x5;3&#x1a;911:g@&quot;������2��dV�&#x0;&#x4;��+.�&#x1;&#x1c;	�,&#x13;ڬ�4v&quot;�F�&#x5;*p�&#x15;��P�״���&lt;�V��	��ek�&#x588;&#x1c;+\�&#x1d;P��&#x1f;r6&#x5;t˒����,E�oD�wD�&#x10;/e���D7��;n_��&amp;�gwվ�Eo�t�&#x1e;�&#x14;��բI���&#x17;	�a�}xZӴ�R��A4!�}�\ۍ&apos;�-Rbn:)��;&#x11;��&amp;4&#xb;��ȕ�&#x13;�M��M���k��4�2�i�+M&#x5;�&#x1d;�R���5��u�i��i�M��;�&#x1b;Bn&#x11;&amp;�H�v%&apos;�&#x12;g�&#x18;ij7���|���4ߓ(Il������V�^B7&#x5;��fS�&#xd;�y��&#x1b;��w�����W�`)�y�0�&amp;&#xd;&quot;!9OZ�N%�&#x1c;&#x7f;�&#x8;�2���&#x8;ԅY\AE&#xc;R&#x1c;�&#xb;�?�mN�L&#x15;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/d863ae06-b5c9-46a5-804f-31e68d571d48</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="257" ct="33" ts="1712928521045" s="true" lb="/submit/firefox-desktop/metrics/1/8f45dce5-dace-4db1-a082-664b55ac308a-10" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="890" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:41 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:41 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 4803
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��YIo��&#x11;�/s�%j��e&#x0;#98&#x8;r��X&gt;&#x19;&#x6;�$�&#x12;-&#xe;9�&quot;����=_s&#x1b;�hA|&#x8;�;&#xc;{����.}=���!���=&#x1c;�&#x1e;����(�ݡ&#x1f;|7�Cu
+��S.	&#x15;��{������#���Ch�7g�=gG��3]�}��D&#x17;��1&#x14;c&#x1d;���s�p�&#x19;�����^յ�yގX&quot;C�֙�H6&#xe;Cې&quot;�~�&#x7;�\�UV�����ת&#x1f; :&#x19;��E&#x12;Y��&#x11;|&#x6;p&#x1c;&quot;e�&apos;FC��~h�������(�v�+DAr�(�2�ĳ� R��Ȍ&#x10;�4�&gt;|9G�ꔍ=�&#x14;�q8��&#x7;,&#x14;�3�&#x5;&#x19;B&#x1d;Na辬��܅�&#x1d;�&#x16;�1{%\�6&#x3;�}&quot;�&#xe;&#x19;+�Ȉ�&#xb;C$��x�Q&#x2;q�T��en?&#x15;,��7�&#xb;{�롏y;᳐e���&#x15;�&#x16;l�R&#x5;����pT8�)�&#x7f;&amp;���v&#x3;�`&#x17;߇m{/Ih|V&#x7;r9���}�w��ڬ�?�a&#x10;S2eIƄ$BX�8e��v�iuK[���w!�xn�&lt;���H&#x7f;n���&#x2;&#x1c;ٞ�j&#x8;���&#x17;�%����f&#x1;rXJ�V�&#x4;�9�)/�a��l&lt;?t�&#x8;Q���&#x1e;&#x1e;�wM�E�&apos;�书�ЌP(&#xf;QJI2jJ�&#xb;���1i&#x19;�&lt;t^���&#x15;,BN&#x15;�&#x1a;�T��җ�w�&#x15;�i������&#x7f;�%����&#x8;�&#xe;�,u �ӒpY��&#x1;ZJVN&#x2;��Wx*2��]��P&#x13;�E�&#x16;s��?�E�&#x2;�Z0&quot;�&#x3;&#x8;(&#x17;�)0&quot;��e��[�OL7�~]��&#x6;�&#x1b;.�}�fcUG&gt;J$,�N���&#x8;&#x5;&#x5;�\2�������s�#�H�v���s��&#x19;3�n��=|绗�Y�揾iB=A�d����&#x8;�|&#x18;��ȫթ�X�DI&#xb;?�U�&#xc;%&#x14;a��&apos;&#x14;��&#xd;�˪뇴&#x1b;��p&#x14;&gt;&#x1e;fb;�Zb��+���&#x5;&#x1;H1p��ܓ Mɋ�&#xb;��!z&#x16;���)�j�P&#x1d;�4C&#x11;&#x8;��Ky�&gt;U!ɢB]����&#x19;�S�Z�/)��&#x19;����&quot;��0R�&#x17;�&#x1f;�1�&#x1d;����Q���}�%�WX��3m�&#x14;�&apos;�&#x5cd;��k�M۝|�&#x7f;�
+�(��(� l�&#x12;89��	�K�=a+)�&gt;-}&#x15;�TC���&#x7;�&#x1c;g&#xc;c&#xe;Q�4��]L0c�A-�&#x1c;_FRe-B-�qf�&#x11;�&#x1c;���`4n��`�c�p�w&#x7;�P1&#xd;~;ܗ�;@ɑEb�b,sn:f��&#x0;��7n;��&#x0;ӻ�&#x2;SK�&#x1d;� N&#x14;&#xd;&#x1b;�Y�&#x1;��&#x6;�V;&#xd;�hA�r&#x1a;9i�L�P�$����j�#ef�&#x4;&#x12;�IP�&#x14;��vT��&#x13;�R�s&#x10;[p!�&#x2;q��Z9&amp;�L&#x1b;
+h��B�
+	&#x11;��&#x5;�N8&#x14;���;�*�&#x17;&#x1b;*a��\��&#x1;&#x10;O����P%\d&#x3;�*��)�|&#x1d;�&#x18;�f�(&#x7;L�l���9��ds!��R�Y.+5sQ��B�&#xc;�j1���@&#x1a;:��R[E�D�IF���9�!�&#x1c;�1nᒆ̎�ՄR�!؀��H%��&#x15;M�p��2[g�T��&#x18;�p���&#x19;	����&#xc;�PL&#x1a;6&#x1b;&#x0;nS�d&#x6;&lt;9u���&#x0;\�N+&#x1b;)�x]&quot;�&#xc;��h�9)�B�1&#x1e;�Kg&#xf; �&#x14;t�&#x13;S�@�F�A7�Џ0=��&#x10;��E&gt;������&#x1f;JK��b&gt;&amp;&#x1d;��&#x1;&#x1f;��&#x1b;OВQ*��&#xd;VnR�&#xb;MxAƿM��)����6~��l&#x13;R�CS�&#x1c;H��u㱫&lt;�R�*�..g��ܒ��mt&#x13;����.&#x14;�m�o~�;�M�n&#x0;@wٷ&#x7;&#x13;z&#x13;� ߁&#x4;���-y���n�dC�h�&#x15;
+�M&lt;\r�*%��Mw�Nw1|�5&#x1b;R�Qt&#xf;i�̈�pA����0��$�&#x5;��&gt;-�&#x0;�%�nA|C�=�\�x7G�@g&#x2;��&#x14;)ۇ�:�IY��cZ�s��_�&#x7;�-�.1$!��+ű�T&#x0;K&apos;법�uB;�6&#x5;?,oW&#x19;p��؅���&#x1f;ߧ�UҲ}:���$�&#xe;�-3͵��&#x2;u&#xb;(�&#xb;	�&#xb;�	��챻8�p}_2�3c&#xb;H���7Qx�Kkس��9�噻Π-(�.��&#xe;&#x8;�&#x1e;��U��{��;X��S���lb�=ʖ6|&#x7;&#x1d;�&amp;ԷT�;p�b&#x7;�|�/N��
+����Z[�i�0�&#xf;&#x1e;N�d&lt;Ǧ6}=�i&#x19;��&#x11;&#x5;���a�@�7G�W&#xf;i?�c�&#x11;��:^�s��&#x1a;��&#x1c;@&#x19;=c���!o���&#x19;&#x1e;Q`ڷ�S&#x18;�&#x1a;]&#x1e;H�8m�	�#�u�L^=���q7�k��e�o��h��y�=r2��S&amp;&amp;q��C�&#xc;�S_/�u�pn_B����0��&#x14;c�te0�n�^x#�&#x5;�yƫ�&#x19;���y�&#xd;^�(&#x5;X�&#x1c;x&#x1;���6�C[���!&#x14;P5&gt;&#xe;���fuciߘ��q��7��S&#x7f;#�0��7@�={��a&#x1e;o����x*��&lt;����~U:M��&#x11;�i�*�FL��&#x0;G���&#x10;�a&#x7;�&#x3;�K&#x7f;�fZJ*��L�c&#x16;k�.᥆�&#x18;�&#x4;K��&#x8;^@__�����&gt;&#x7f;z�&#x10;�E:&#x7;^2��`�6m�aY=&#x1c;&#x7f;&gt;���&#x1f;&#x7f;����s�����&#x7f;&lt;�2?&#x12;B&#x7f;��G�`�&#x6;w&#x0;��c�&#x6;���5v&quot;h��o�c&#x13;&#x3;&#x10;��&#x1a;&quot;&#x5;Dl1&#xf;$�j�&#x1a;&#x18;��_��!���u!�:ϼ$,/1���$V�����|&#x1;&#x0;5�9LO�-�f�&#xf;퀎j���pK&#x15;���&#x1e;&#x1e;a�&quot;]�4&#x16; d:�}�$\_cE&#x18;��k�/�w�)�Z&lt;�o&#x1f;Tk)�Ʋ��cH��1���KOA�&#x2;�v�n��3_��\g���ύ/
+�rJ�M�RN�Î.5x&gt;e&#x17;�^:&#x0;f�R?&#x16;&#x16;��n�&#x19;�n����&#xf;�鍂���b�d����°k��ٺ�
+/�#e&#x5;�&#x11;&#x7f;�Y&#x2;vg\�p&#x1e;�th���J3!k��5�2$�S���Tg%�ȣc����:�$�����3{&#x14;�He&#x2;&#xe;�(�m�L�k߯鑮S�bON^(|(D[&#x17;{!8���E&#x8;�?$�W���\&#xf;�A��&#x8;��&#xc;�&#xd;F_�(���]MQ�~��0&amp;&#xd;UY�{p�/��&#x14;��.�3�2	����&#x6;=�?&#x380;��&lt;TMH����9��C�B`���&#x1d;�A�&lt;�&lt;��ɣJ&#x1e;�&gt; :���&#xf;q&#x4;��$�/3�/痱&#x7f;�v&#xf;o�,3�&#x4;��Ii����^�&#xf;&#xf;����O&gt;�P�&#x1d;�e�ã7$�9)��&#x0;{sD��6�f��2n&#x10;&#x1c;�]�h��=���It@�&apos;4c&#x11;����&apos;W.S��#�t:&#x7;&#xf;�����&#xe;o�?&#xe;ù?~����K2�+A&#x7;��|�os&#xd;�6�Hپ� ��o��	�&#x7f;&#x1;q�u�J&#x1a;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/8f45dce5-dace-4db1-a082-664b55ac308a</java.net.URL>
+</httpSample>
+<httpSample t="193" it="0" lt="193" ct="28" ts="1712928521325" s="true" lb="/submit/firefox-desktop/metrics/1/435588bd-cb80-4041-96bc-68fe37f77452-11" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="774" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:41 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:41 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 3677
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��XI��&#x11;�/:䒡&#x1e;��&#x1;#98&#x8;r��x|2&#xc;���neԒ��Y���=Ejiv�&#x12;�0f&#xe;j�X���WŢ^��n�Y�V]rxMF�59pu���&#x1d;�l��.9$&#x14;S�0CD�Sr��&#x18;&#x1f;0N�&#x12;זol�=&#x11;&#x7;&amp;w��ٱk�bpcqr��8?�w&#x3;�l�ѯ;tM��&#x13;�*4�����cW&#x17;&#xe;U݀ƾk�np%��~�&apos;&#x17;��m�&#x13;8.�v&#x2;&#x7;��4X�εޣw��&#x12;,$�&#x15;���
+�&#xe;q�1�R8�Tn�Ŵ������[i�s&gt;�hŔ��&#x1b;8.N�7�&#x3;�ڛ��k&#x1b;fs��&#x16;QG&#x5;�:��
+Q&quot;	O�0��a��]���&gt;��0��5���_�H\k�ơ��&apos;�t^���H&#x11;�É�(&apos;�#ƴ&#x15;&#x14;��s�)��&#xd;=�&#x10;&#xf;&#x0;tv��E��&#x1e;�&#xe;̧&#xe;&#x11;��_��_��M&#x0;]N*�r$�R!�9G&#x16;&#x3;tS&#x1a;&#x85;�lU�%Pϓk�&#x1a;���q�&#x13;&lt;���&#x8;|��١&#x4;`�]&#xe;�8@�uE+�#�&#xd;0ZI�4�&#x15;��T.��H&#x15;&#x0;��ou�X[&#x14;�&#xc;�&#x7;��&amp;�&#x3;��i&#x2;�����L�&#x1e;�n��&#x5;��z� I�&#xc;�_�� �&amp;&#xf;&#x1;�O�M%�T�&#x12;&#x15;�&#x0;4^HdIY&quot;.+^�1W�O�}��!�&lt;7~��=�&#x6;�=&#x1d;vQ&#x12;&quot;�$2�p�JF&#x10;7&#x6;p
+���&#x8;bXꪠ�,E@6�&#x10;���&#x2;15��4�&#x1b;՝�OH*
+�u)	 }Ȉ��&#x1c;�
+&#x15;�ȼ �k�?!)�iS������C��u��&#x11;,%��d�&gt;+N�m]&#x13;jc�Џ&#xf;�	*\1̓_�Y�Lr&#x18;����&#xd;^�&gt;�,e���5��aM9aT	&#x1d;����vx��մ�Ǿ�/�&apos;BTp&#x14;�d�����(�0pA�C&#x15;����W�0N�0���_�&#x1b;&#x13;��lL&#x4;TV(�&#x15;E�1(&#x7f;
+R�Pj�㪢en�$$�&quot;&#x3;��&quot;&#x14;�y�3_��&#x1d;m��D��_�kY�#RTP&#x11;xΑ&#x16;.G�tƖDpU*ﷁ�۸2&#xb;����ܧs��g��&amp;��T�28� ���U��X&#x1f;�q.
+7&#x2;*zU[�~��x&#x6;��.���&#x1c;&#x0;#`x�`��m�2&#x14;�ԟ�#8���&#x14;�^/��&#x13;Z7=u�C
+�&#x16;���28&#x1d;�El�I�u�	~g�A1&#x1;&#x5;&#xf;B[L&#xe;&#x10;ze�&#x1;��&#xc;&#x6;&apos;&#x0;��7&#x1c;�\qL֑099&#x8;!�:&#x2;&#x1a;&#x0;I&#x1c;�6�^V&#x7;��ػbn&#x0;��&#x3;�@�&#x5;̟��;&#x7;$6�&quot;
+d�]�&#x0;�75�&apos;9&#x18;8&#xf;&#x16;��&#x19;�L�0&gt;&#x1f;�1�&#x5;h&#xe;v
+�-&#x8;�5^�lG�uO�Yۈ�&#x4;X���b����&#x1;�Ay�Z(�&lt;&#x3;&#x7;�q`�.�F
+���8ђQ�`��C0͕��&#x1b;j��xs���J�s�9���&#x4;+&#x3;&#x2;���QØY^&#x18;H,#�8x�&#x4;&#xe;l?N��F.���2�Dx�\j��b���r�$8�*&lt;á��
+&#x1c;&quot;�4_�&#x15;&#x16;̈�&apos;e��ϔ&#x1b;f�
+Z&#x12;E�&#x16;&apos;�3�lS3����[�g!�HH&#x7;&#x1d;&#x1e;��QC�-&#x1a;���J����
+�&#x0;Af�Z&#x18;�&#x7f;&#x1;�?�gК&#x2;����Z7&gt;�M�=��;���J�ౘp&#x11;E�E�D�Ɠ��B���&#x18;&#x1;�&#xb;��/.ۥ��&#x8b;$Xġ�HQ&#x11;�$V
+&#x3;W�)*��oC��^��j
+��Q�&#x1b;X�&#x12;�&#x1e;&#x13;�F�D\�n�&#x5;�tή%��Y�3�BH�&#x7f;&#x1a;iVF��q@#�&#x6;&gt;�R��0y&#x17;��0���l�l�BH�oTD�#��Ŧ&#x1a;�s&#x5;&#x13;�+�V7��}��P&gt;1�]%D�&#x10;��*@۩�y�1f��EBq��M�n&#x2;�&#x5cc;]e�Ƌ�H�*&#x16;&#x10;��Co�y&#x11;&#x7;��Y$�M�^�{v�8X8&#xe;)�D*&quot;=&#x10;&#x1c;�_FI�9�SGD2&#x13;��d&#xb;��N�|d7��2��+��](އ T�p̀�&#x3;��&#x6;�������8�A^f���.��1����u49�����~���&#x1f;�s���&#x1f;~J~&#x5;g�զ���&#x13;̻M�M^eG8�����u�B;&#x7f;O聉&#x3;�)g���&#x3;�.��07��y�&#x17;&#x17;&amp;rA��ś݄��&#x1d;��dۅ��.ؘ�&#x3;&quot;L:we]ՐJØٲ�����{�=&#x14;�R(O�c7p8ǻ�\�n�V��7=ϥQ&lt;u�p�(ޓ���&#x1e;���o~S�&#x1e;�֥�M(�z�ֆ�����&#xb;�-fX��&#x6;�&#x5;Ҳ���.����&#xf;��&apos;&#x1a;���&#x14;����֍l֡&#xf;M�ΖYo&apos;&#x7f;��%0��1���j�^��n8~��f�&#x1f;�-?�&amp;�CD��&#x2;&#x5;���g�&#x1;&#x1f;���m&apos;�{��ҥ����hAcew�&amp;rL}&#x4;|�
+&#x5;d������fb��&#x4;�}�MX����d�2;�[�S¥�&#x1;�&#xe;��r�
+2�Sw~�M�)�)��&#x10;�!&#x7f;@��&lt;&#x0;�;�&apos;�����8�ߟ���s&#x1d;&#x1a;X�X�P�J&#xf;5-jv&#x8;��p�&#x1c;��&#x5;&#x1a;���o4&#xb;v�i��������S���B&#x3;�e����&#x12;�&#x7;Yu�&gt;,&#x7f;��݇�y�&lt;ol�p�W��&#x1;����&#x13;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/435588bd-cb80-4041-96bc-68fe37f77452</java.net.URL>
+</httpSample>
+<httpSample t="260" it="0" lt="259" ct="31" ts="1712928521541" s="true" lb="/submit/firefox-desktop/metrics/1/8ef14cef-732c-4221-b647-ba86391ca70d-12" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="938" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:41 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:41 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 5630
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��YɎ��&#x11;��:��a)��&#x1;�&gt;�0|�&#x4;kt&#x12;&#x4;�K��j&#x16;Y��=#A�,V��{&#xc;	6��!Y����x&#x11;&#xc;�z���c���px��0��&#xf;&#xf;�|8Ls1��ܞ����&#x8;&#x13;&#x19;�&#x19;5&#x1f;�|��τ&lt;&#x10;r�pp}}��я�&lt;P��&#x19;]1&#xd;=V�n�N�^:�w~��&#x11;;�y��C�&#xd;˜&#xd;M6�����硭\�&#xc;c6]�~&#x1a;FWg�p��م=�X��	����! H����6&#x7f;�x���\.S�J&#xf;
+�k&#x7f;�?k��&#x8;kX�h&#x590;�e�&#x1a;�&#x19;%]�tiIAX�4=��[&#x10;����&#x1a;ٹ}&#x1c;�&#x19;�Y���e&#x18;����&#x18;�R���_&#x14;�S�&#x12;ӰF�&#x19;1�d�Q.3�4&#x19;&#x13;�v%|��&#x6;��6�+XM�WeF����MM\_���n����)&#x1b;�3E�i	��4YI��87�d��B�/�t&#x1e;~i��(�jX&#x10;g&#x4;o��b��e���5����s;�e۵���}j�&#x19;x̖ɍ;�g�h��e�&#x1f;�3S��5��JQ�&quot;*�&#x15;��3�&#x1a;Q��s��r�	(���Gu��u&#x19;&#xb;r3&#xf;ϫk)��#&#x4;Z�(S�f�Z�#�w��&#x19;&apos;�4&#x15;õ�A��&#x2;�����ܵ�����nn�&#x3;�T�&quot;�V4#�,�݈�$��*NUYQ*&#xc;%A&#x15;��&#x15;HFx�����Ufv&#x19;�s;,&gt;����I�\I&#x1b;��LU��&#x4;�&#x16;&#x5;&#x1;�&#x10;;*�n���2�\u�b�;;���Ƈ&#x17;�+�&quot;c��L&#x18;�SHYg
+W�rK��8;�`�b�F��w�~�˥�&lt;ɏ��i�:���� �e�q&#x1c;��&#x3;��&quot;sB7�.&#xb;�(Ŗ�rɫS���&#xb;t&#x1a;�蟏�	�X���M�dT�&#x4;�&#xf;���������.]�9&#x7f;v�&apos;3O&lt;T&#x7;u�)y�����~�Us�&#x10;&apos;�	ʙ�&gt;&#xe;ᇼ.f&#x7f;(��d&#x4;ء&#x1f;&#x3;��o�&#x0;M;Ns&gt;.�u�&#x17;�&#x17;S���&#x7;W�U vT&#x14;_��,&#x1e;�,�R�&#x1e;����^�c�-�)����a�s�-�(Pf�&amp;�&#x1d;&#x1e;ȇ&#x3;`����ZP+8&#x11;�Z�bU��F(�&#x18;�k%��$��&#x12;�h&#x1d;7X���Q(5�Je�&#xe;θ`��&#x13;���k&amp;,��ǰA+.�&gt;&lt;P\S�8[7k&quot;��n�F�U%ÍA*�5
+���^(��ʨ&#x5;��*eõ&#x14;&#x0;!��($�(&#x1d;73��Y5�Jkͨ
+j0f�U�&#xf;�&#x12;mI��&#x12;T�e&#x14;k���{&gt;���&#x11;�&#x1a;�%�{7�&#xc;�&#x13;�t��)o��su�&#xd;��rY[�4,�&amp;&#x1a;&#x7;2�3�&#x17;�&#x1b;��B1(̼�&#xc;&#x6;R�y���Br&#x0;.(���{�**&#x15;�f���q��!���&#x1f;B&#x8;%,��w�R���N�k&#x11;&#xe;�bI��a�*&#x13;�&#xe;!&#x14;D&#x1a;#͝�&#x19;OC&#x1a;�,m��wX񱷈���5�Lj&#x6;�Y0�*�)��)O��w@��#\&#x2;�T&#x4;���&#x0;�e&#x14;O�@Li�&#x10;��8�!�t&#x1;&#x10;QoQt&#x17;�1��.�V��G&#x7f;k��&lt;B��,&#x18;l-GQZ��Q��D*&#x12;��&#x4;�h&#x1c;&#x15;��D���.&amp;�_�{�d�;L&#x1a;����&#x1;~�b*j�-��z��}&#x12;l�� 1e�&#xf;!�Y�&#x1a;�М�-���5�J�B�����2&gt;&#x4;R&#x13;��U4^Je&#xd;�]�&#x1;�&#x7;c�R{B`�&lt;&apos;�r�X��%�M&#x18;�&#x7;�Y&#x4;H�5
+�!07J����H�&#xe;6V�(5�`�w&#x1a;�� Q&#x18;�Vr&#x11;��d�E1�x�&#x12;{ՄBK.u�&#x2;�����kvs&#x5;���52R
+���!A�&#x1b;C�qR	ā���+��4F2
+�YEE����(AZ��Fǐ!#`ؚ�&#x1c;��$�&#x16;@ka&#x19;�j�z#8o5`�&#xd;AbŨI#�&#x12;cVҢ�g&#x1d;Q�8��V&#x10;���Щ�S�5�&#x5;m�b&#x10;o�,�`&#x11;�du�f�3x�D&#xf;i�&#x1e;�`+ Q�&#x15;cj--p9��#ǻ&#x16;b|&lt;&#x14;�Ñeئؾ�&#x4;��E��P��280���&#x2;��9H,�&#x12;�Vll%��}�&#x14;��&#x17;��&#x1a;�^u�D&#x18;��&#x10;�ce�&#x15;&#x14;&#xb;��E�&#x0;9J�&#x10;1&#x4;��&#xe;վ&lt;z�Q�&#xe;0/���&#x15;&#x0;z��[%�X&#x10;&#x10;�b&#xd;&#xb;�	f�v�?k�j&lt;-&quot;\(	NQ̚�u��&#x2;rcYISv�iz�&#x5;Y�QۍlX��|�.i)��	MJ�J��#�Z�h�$�E&#x2;	��/A&#x11;gw)ssx&#x1a;&#x7f;���I�&#x12;�w��VZH�۞�7�ش(��M�۔[��;`�BҞǦ&#x5;̦)�&#x13;��7&#x1b;&#x2;�]��RC�=I­,MG��O��&#xb;��/&amp;Rn�i!%)㑤Y�*�څ]or��g�&#x4;��5�G&#x5fb;��{&#x3;کM��m4|���I����Z֝I�H�}�z��]?�k&#x1d;���8��[�&#xd;14�&#x12;�������J&#x13;$�]���w��n&#x0;��w��&#x6;������:��r��]�&#x7f;�T�����ط|���~�#n�+��s+&#x17;)�&#xd;&apos;M!IwU��ն}��1c�&#x7b2;��&#x1b;���{ҭ��5�4eY��H�)&#x12;��&#x5;��&#x1b;s���+��]&#x5;�oݱ�o��tĈ�&#x19;ӿ�v��6&#x1f;����)���&#x17;m?N�������&lt;�&gt;�N&#x18;~��K����&#xb;�@&#xf;�a���,!&#x3;�����j��-�&lt;�_�o�u�*�&#x18;n��b
+�ct�&#x1e;s���&#x7;��L(�1�xh�7&lt;�X�IDڧ4��&#x11;&#x7;�!n�)�%z�6r&lt;�a,�bU`��&#x1a;Y�{&#x1a;�$+��|�[�&gt;0��vr&#x18;��a4�a����&#x12;�=z�&#x1f;!��Û��O��|Z�s;Ϯ�k��r�g��⪥ög&#x7;���&#xf;�2WCԪ(1Z�i�P=�9��B&#xf;���+/U妩Y0��;�&#x7f;�|&lt;_��ŏ&#x6;�O�.o�\�@�&#x13;f�&#x11;&#x19;a&#x18;�O�c��q]�&#x1d;br&#x19;&#x7;�s&#x1e;g;�&#xb;��Tp�&#x5;��~&gt;�}Qy����G&#x8;&#x6;&#x6;W&#x5;&amp;@&#x15;Bg����&gt;����0�&#xf;��C��h�&#xf;�v���{&#x5;&#x2;�v:&#x18;�&#x6;Ȱx�U&#x1;�����N&#x7;�ߢq��
+8痨���&lt;&#x1f;�&#x13;�s_�o�1�f&#x4;c�3B`&#xe;|�&lt;h�`�S��&#x1b;�?_����m�&#x8;���{&#x12;&#x1e;�����j6ƥ}��&#x1f;Cz&#x4;�4_�6�	�&#x14;���6&#x18;;�30W&#x1a;U���h�`�&apos;J�&#x19;��&#xc;Sp[��[]k?&apos;�9��&#x10;�&#x1d;G|E��8&#x2;�u&#x1e;1t��&#x1b;&#x10;�!�y}zx���������o���ǿ&#x7f;�&#x7f;���G&#x8;�y)�&#x19;��|�����&#x3;��p����&#x1f;轌&#xe;p�&quot;~1�㷣�&#x1f;���δ����M�=pX&#x1f;&#x1d;&gt;�-�!��&amp;K_�������&quot;|k��0&lt;��(oK�[���x&#x1b;��&#x18;DfeV�+6�Υ�O_��.�����1��ۺ~�(p&#x1c;��wOJ&#x15;�F�œ���ܕ&#xd;He&#x19;+oX��s&#x1;��&#x13;��i�{c�ri&#x1a;$�����P����:���S���P��\��G&#x4;T����&#xf;$:y4�a��4ϗ�&#x1aef;^^^��!G��Wq�_c&quot;��W�f�����{^	/��&#x7f;z8$4�~e]��&#x18;
+��K~-��&#xe;�&#x1;��/D��&lt;.�á�C�X�����&#x13;���6&#x1f;�&#x1c;_y�eN����~&#x18;Ϩ���Sq�O�km���\`n&#x1c;�z�j��c�j�2b?R�7�&#x7;&quot;���mt��F�f�&apos;�p7��Ho&#x1f;F�~D�&#x1f;���ϥ8�$&#x7;sy&#x13;��ׂ�]1])-�~M����D��B�&#x4;W&#x7;���ń���s�5�[��&quot;�QJ�-�&#x1b;�F��1&#x11;&#x1;k$����o��&#x7;�I�`g&#x1e;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/8ef14cef-732c-4221-b647-ba86391ca70d</java.net.URL>
+</httpSample>
+<httpSample t="208" it="0" lt="208" ct="31" ts="1712928521829" s="true" lb="/submit/firefox-desktop/metrics/1/2c056b9a-54bb-4c08-9fcc-af6a74f342fd-13" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="876" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:42 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:41 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 5047
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y�n��&#x11;��y�KD���&#x1c;�H&#x1e;&#x1c;&#x4;y��x�d&#x18;&#x4;/M�^&#xe;9�Eڵ����&#x17;��$&#x7;1&#x12;���!��NW��t�ù&#x1f;&#x1f;�~����b&#x7f;9&#x1c;E�pX�j^˵?����&#x8;&#x13;&#x19;�&#x19;�&#x1f;(9R�gB��&#x1c;&#x1e;&#xe;vl_��&#x1f;(=��f��2�X1ۥy��6X������9���{�~퇡��f��([�i��9��u�Ƭ�]�&#xd;k��/}�&#xf;��9���e&#x5;�l[��D�s56OгB��$g�W�Ε{�~&gt;;�c&#x7f;��%��a��՟�}v��Ѻs��-Z�f��$&#x13;�QYE�6&#x13;�&#x13;m�9��&gt;|��s&#x5;	��e�S5[��y�&#x1b;�uӜ-�i\�ٶ8�y�W��`l�q��?�O&#x11;ֱ�Ѭ#��&#x4;5$3J��� &#x15;a����`;.=`d��q�V|�z���Ӽf/����f�����&#x0;�&#xe;&#x8;%�c��3b
+&#x18;�S63�t&#x19;&#x13;��5���&#xe;��&gt;�&#x3;�,�;��&#xe;`�}&#x13;�&#x1d;�z��u�&#x1f;0��;�3U�i&#xd;�T���\d��J2Bk!L0Z��d�(&#x12;��أ�Um�ʘe2&#x13;&#x6;�*)�Lᓤ� ��k�S�	tq�w�&#x1d;�&#x1d;2vAs�&#x11;��&#x7f;D�BZ�&#x14;��(
+&#x10;\&#x16;�*�f�(�5&#xc;���ȶ3��ZG�u�&#x1f;��7&#x1d;u��?&#x0;�i&#x14;1��&#x19;�+�Nd5�]�p��Ra(�P&#x10;��BT�&#x1a;&apos;�Οw��y������&#x1;&#x1b;�����ִ#��T��L&#x10;��&#x8;\�d@��]�5�w���&lt;��vI�&#x17;���~,�&#x1f;�&#x1e;�s������9���&quot;�e�堎FP&#x15;�U�&#x15;�cm]qE)�Ts�LҬ��@|2�T&#x2;ϧ�|��&#xb;u&apos;���+�����P}N^S�/owL�UN&#xc;&#x13;�3-M|�&lt;U�h&#x7;��=�&quot;|���_�&#x11;�����V&#x7;�&#x16;�d&#x4;��&#x1f;|��ϥ&#x2;t���弍�b��-�&lt;�q쇩��gI�*T&#x15;�p���&#x3;R}~&#x1a;�DYZ�|�)����z�&lt;,#�&#x7;ʎ\&#x1e;��&#x5;&#x13;&#x17;�w&quot;&#x1e;�hC6�-]&#x10;`&#x12;&#x1;\^&#x5;T���&#x19;��-��&#x3;�{&#x0;C�S�&#x7;�^�ڤ&#x12;�+�GXp̟��o���j��i�oL���&apos;�&#x1f;�Kz�P�M&#x4;�&#x1a;��&#x8;��4�}�۶���j[T��T&#xf;�[���&#xd;�W&#xf;-p����Sp��&#x19;��`��T�&#x8;:&#x17;����&#x1d;&#x1f;��汄��T��Z]X��&#x11;��8M0�_���
+�����&#x10;�ٟ&#x2;2�WK�s��\&#x15;��8{wQ
+�]���&#x0;9�����{썕&apos;����w&#x11;$&apos;zw͝D�&#x1a;}&#x12;���L����&#xb;�yɑ(�ь��u&#x19;�������U�b�m@�&#x2;Y�����|��&#x12;��N/�.&#xc;��Q	$�(&#x3;�:o��Џ��Q���~�һ��4�h��y�&#x2;��&#x1a;O�&#x7f;V��n�:�\~&#x4;��d�䈜�К��	���A�(A��R�V˗���n&#x1d;�n��c�#c����&#x1b;m39&#x1c;����&#x1a;M&#x1e;&#xe;&#x2;O&#x1f;&#xe;&#x14;�&#xb;�]&#x8;m&apos;�N+�&#x1;�]�}�a���4&#x7f;ī�Et&#xe;��v.�|�h�)�&#x14;���&#x3;3&#xc;M&#xd;�^+&#x13;&#x5;/��&#x1c;��&#x1;�K&#x1b;��&#x12;8�0Rc&#x3;�&quot;�dA��~&#x7;&apos;Z&#x15;R&#x14;&#x1;�&#x16;��&#x16;�7\J!�&#x17;&#x8;�E!�Fx��ja&#x8;	j4��i&#x1e;N�
+%�
+��&#x12;�Hˠ�@�)�~&amp;�&#x16;���RQ�&#x0;s&#x3;���ƭ��m��&#x5;&#xf;V$x��[&#x5;CK%�&#x1a;&#x10;&#x1e;p1&#x1;%N&#x14;p&#x15;P�&#xb;&#x7;ة�Fqfx&#x10;M&#x15;�s&#x0;&#x6;&#x2;&#xc;7F9�
+X4-�*���PF:C:�Zqa`&quot;
+,�&#x14;�J&apos;&#x5fd;1�����&#x16;&#xd;l&#x6;��&#x1d;&#x18;�d���Q���ixA9&#x1a;,&#x1e;A��&#x10;��3��
+�!�I&#xe;�֚Q�&#x1f;�e�C��UA&#xb;�I`�ф&#x15;�&#x5;&#x7f;Q�E����mQpM&#x8;pr��&#x2;]&apos;��&#x4;%�@.�&apos;`�(���џ&#x16;a&#x19;��&#x1f;�:��A�ۢ�&#xd;�&#x5;�ě	=&#x11;/����&#x8;��&#xf;[&#x16;� 
+�&#xc;� &#x10;,�*ʜ/�
+�(�&#x10;Sgsr��&#x2;.&#x6;v�&apos;wQ0�h� &#x1f;�&#xe;���R&#x1b;��&#x14;��/qÈ;|{t��C$95MH�����AR��[;]��|�^���ݸ)!&#x1d;���%HH&#x12;�4	}�Њ&amp;&#xc;&apos;���2&lt;u&lt;Mb�$Qx�k�r��F��\$	�4&#x1b;�$&#x18;iB�+&#x19;8&#x1;�Ї�A7=���ɻaC��n�{[ny�&#x10;*Mnt&#x17;&#x8;Ã&amp;���VW��&#x16;��h/��w��&amp;&#x7;]��Z���,&#x13;����E�O����3�nc�&#x1a;Y�xB���M&#x6;�&#x1a;��&#x19;�%t6w����yJ[�2���k��4���4	9&amp;&#x13;&#x1a;�q)&#x13;θ|~�H�Z�U�&#x1b;*\3&#x18;K35�O��&#x8;�)5i&#x12;�*M&#x1e;L�g�k(��&quot;-&#x1c;*IP�.��&#x14;�K��i93���RC�MҡI̱4b�k��p15��&gt;�.��&#x5;^�F��&#x0;&quot; BS�;��psB&#x19;v��ػ��	�{�Xܶ[&#x7f;Y��L?�&#xb;S���9�w�O���,�
+��k�}&#x17;�&#x1f;��?�ˆ�mA&#x8;�&#x1c;p�^�7�-\&#x7f;\;v�&apos;��tw����w�B�?c.7�y?V��?[�V`	&lt;G���{�&#x1b;3��&#x7f;F&#xe;x�mU��&#x6;sF\pɱ�㰼&#x19;��bLhƀ�M&gt;\[J/HC���&#x2;z�&#x12;�go�&#x4;���&#x6;�q�&#x7f;&#x5;�J�xG�ԗ7�n������_=�߮�mz�&#xe;��m��r �4��}��f
+~��&#x19;&#x12;ʠ�&#x1c;��:�������00&#x0;�&#x13;�9PT���i�&#xd;�rZ��t��&#x14;�&#x8;�&#x6;�~\rqh��&#x18;�&#x19;���ʟ�&#x4;Ycp&apos;�&#x13;���&#xf;ď�p7�G�b�y��C&#x18;i�u;��X�&#x13;J�������W///y���8�Wa�_´�kw&#x17;�O����_�~���Jx=T�ǣ��m[�=&#x0;&apos;V���2$��y���j�Jd��0�&#x12;�Ȍ�u��jQ��z��afr�0_��A���&#x7ba;&#xe;&amp;v��+�,��&#x14;S&#x7;�&#x1;ӟ��E�)b�!&#xd;�����Xɵ�}L|�l&#x16;�R��tL�:6&#xe;���ib]��()�$&quot;bk&#x14;%`4&#x1d;��u�=�s&#x13;`���&#xc;��Dt&#x8;&#xb;&#x16;��Є����vϗj/o{C�X�Y��)�Y�b�I�o-�^�E#&#x16;�wa�懇#�RE4��d��T����T��B�&#x10;q�x1��,�٣�i&#x14;-�9��M&#x1f;&#x13;��&#x19;��TTAc��y� e�n	�|�\f&lt;����Aϫ�W�k&#xe;r�T��&gt;�:&#x1c;&#x7f;&lt;����&#x7f;��o���oߔ�~&#x7f;�	�~٪q��j�
+&#xb;&#x1e;��ňL�N&apos;&#x4;�;���(�~*p�&#x17;!��ӊ����]�G���3y&#x1f;����&#x1b;�(����&#x1b;z&#x3;���&#x1a;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/2c056b9a-54bb-4c08-9fcc-af6a74f342fd</java.net.URL>
+</httpSample>
+<httpSample t="246" it="0" lt="246" ct="30" ts="1712928522055" s="true" lb="/submit/firefox-desktop/metrics/1/cf76f4c5-fc4a-4235-8f4d-d570e5700531-14" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="904" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:42 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:42 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 4707
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y�n��&#x15;��~�KT�ڗ&#x6;���A��؈�O�A&#x14;ɢĈM��H3&#x1e;��s��K�G&#x1a;;�&#x4;�d-����[�ϻS�?&#x16;m�&#xc;����&#x14;~�&#x1d;&#x14;}�M�&#x1f;�bn�aw�q�%��p�&#x3;w&#x7f;��@��a&#x17;���9�&#x3;�&#x7;ʯs�ৡǌ1L�S��.ĕ&#x1f;Oa��~���q�a��А�ɏ!&gt;�&#xc;m&#x15;H3�d:&#xd;�4��&amp;�p��9�5����	&#x1b;WC?c���&lt;�8&#x16;��c���5fh�&#x1b;�9#&#xd;-&#x3;��Rb�
+$��QOy�&#xd;����)�ҷ�r��&#x19;���&#x1e;v��&#x5f6;뼯�a&#x1;d�&#x18;�ҏ�\�y�I&#x1d;&#x1a;�t3yi��l�v�D��v�aZ�La���a�9B#&gt;�����{U�v��EM*�(���ĳ�&amp;R7�.�&#x10;�1	�rz&#x1c;}&#x1d;���}|��{�	���RU��Z3BK)a�F����T��bLZF&#x13;&#x14;l&#x1c;���&#x13;ɱ&#x5;�&#x19;�����4�3ym&#x7f;�cM&#x18;�oB�}�2j&#x1b;��P�`�F&#x7;b9m&#x8;��	%&quot;�a�W�&#x1b;���N�eg��#�	_���&#x7;���%%^��h&lt;)&amp;&#x1c;&#x15;N|Uv5�\&#xc;1�&#xe;�&#x12;&#x7b4;B�}�&#x5;r��&#x15;L�l�c=1&#xc;p$S��LH&quot;���S&#x6;wٯbBȞ�G�&#x1;�1���(9��&#x1d;��&#x1;p��_�0����$��&#xd;�&#x14;a�) &quot;��T��M�u`��#X 
+��Ӆ��&#x11;~u�Հ���C�&#x7;cܩ��&#x16;�H�d�ES&#x6;F&#x4;ն�8��&#x2;��ȮŪ+�^mWL�sQ.m&#x17;�Sb���&#x16;��T��t����%�1;b$3�F&#x7;0��[?���yn���&gt;t�G���&#x11;�Z.��FٴE�/&#x17;{��&#x1d;�&apos;&#x10;h5/cT��Յ��&#x7b4;�4&#x17;��&#x17;���|.&#x8;e��+�&apos;Q�q�&#xc;��}H���N�X&quot;���xj8qA ?&#xc;��q�I���u�fl&#x17;=&#xb;S�U&quot;�	O��Z�&quot;�}�&#x1f;�&gt;��,��������c&#x18;&#x1e;SMy{v7��8�9��O�����Ǵ�o��gn�&#xf;�cT�&#x1b;��&#xe;ܽ?veSL�2VQJ�Q����&#x11;P��Nc�&#x2;��_W��œOZ������	&#x1f;�M&#x1b;���2&apos;W�]��F�O��wg���&apos;E4L�,_=?���u��bD��2?&#x15;�P��|��;����_?��������&#x7ff;-��a�36�Ck���Nq���t٤��&#xd;u�fPy&#xb;˭�&#x1e;C&#x1f;�&#x12;�mM8�ClM�:P��B]7�&#xb;|�&#x7f;�][�u�[2&lt;���d���{��2MOIfч�&#x10;&#xd;u��&#x7;fϢ��ol�&#x14;&gt;&#xe;u�Q1NE
+թ8�]��F&#x1a;��L�?�e��&#x1c;&#xb;��23��&#x1d;cǰĠ���£�&gt;�&#x4;���9�VW���U&#xd;(\��X&#x15;J�z�|͔4�I����&#x19;&lt;-屝&quot;7&#x15;i��i�O��o^__�kR���ͺ������-�&#x19;&gt;�t��/&#x7f;y7z�ؼ�|�|���A���Si�6%���.�ؔ�)�.ቨX� �ZW&#x17;K�Fc&#x1e;A&#x19;�&#x14;PX굊/�&lt;&#x1c;#�#Q�&#x15;&amp;���������S`ñQ&#xd;�+���簜�b&#x12;��p������&#x1a;2&#x19;d��&gt;�&#x4;�r����&#x3;�r��&quot;��r�&#x4;�m�����&#x19;��v�&lt;Ɓ&#x1e;R���[|��2��B3��%&amp;�=�&gt;̯����}�H��&#x19;F�X&amp;A��Zt�&#x0;&#x8;|�IA�R?�C#(�&#x1;�&#x1e;F&#xb;i&#xd;p&#x3;�5�;�]R�;�Эa&#x16;^�&#x6;&#x18;��`/4�&#x14;;�4MI4R­�+k$=K��(#�Y�Pi��xv&#xf;;#��&#x18;�&#x1d;&#x4;FP&#x1e;�en&#x15;ʨ�NS�ϫ���@&#x3;&#x3;K3��&#xe;#&lt;��&#x12;JP���F*�&#x2;�4EC&#x5;ц۴��R3tz&#x11;&#x1e;&lt;g&#x15;e�Y8t�L�R&#x5;�&#x1a;&#x5;U&#xd;�3	���G��[-8�+8&#x14;b��P�`&#x14;&amp;&#x13;&#x2;��a��0&#xd;&#xd;�p�p2bv
+m�Lȸ0\+��&#x8;��N��pN:�1��Q8K&#x18;����;&#x16;����qg�LA5c�3�q&#x1e;�Ɓ.&#xe;&#x2;h8u�)LdX�-&#x7;��v�&#x0;}`�Տ�*���u�9&#x1d;���q�RRF{�&#x5;0���&#x1b;��T�[M8��wܪ&#xd;�N�h&#x0;&#x1e;��h4&#xb;���&amp;�Р&#x1f;z���r�hQ;��Mė��f�q�F�b&#x6;N�� D�S:�&#x17;�h&#x3;�&#x0;����1�M�&#x7;&#x1f;��O�tIA�r�D{��]ތ(H��{#q6&#x1;~���&#x13;T;�V�&#x15;�&#xd;
+��T��c+&#x14;hɔ&#x16;�PM���&#x9f;�ޡ��,�/��/ͳ&quot;��&#x7f;4��&#xc;&#xd;&#x17;(�����&#x5;�ԡY��TD�*k�&#x19;�-��]�f&#xe;�3����f���̉��q�&#x2;R�=��&#x15;څ�h&#x1e;�I&#x7f;�RR�&amp;�5pi&#x16;�:�&#x14;�\0nܺD�=�&#x1;��]c���&#x11;&#x7;�&#x3;&#x11;�v	�-aiFay��j�&apos;�}��9&#x1b;:�p����f��&#x1;�3Vo�y&#x13;�&#x19;&#x19;�,yyFY�&#x4;�&quot;X�:��d�`vC�4�wq��7b��&#xf;\��s&quot;n�Cƍ�f���Ō����&#x18;8Xhl���F��q�3f[pr&#xe;�R/e��&#x11;Э��&#x15;�f��r��)+�C&#x12;R&apos;�Z&#x3;&gt;�yF&#x1e;�1�Ou��w���&#x16;����wS��!rKlyG�&#x1b;����-�e&#x16;�[��}Ȗj�9ps��]��9&#xb;�Maa�Dr�&#x1b;�7t�7i����&#x13;lF�r&#x13;�_Dʆdn��3.p�ѱɊk&#x10;��2�&#x7f;x�mBޓ��&#x0;o�R�sS�&#x16;9�	�&#x13;��_�߆�n�n2�&#x1d;G_�[�lų&#x4;�U2+T&lt;�|-3&#x1e;I&#xd;�%�TN�:+&amp;1�n&#x4;!�&#xb;ݕ�u�v���3��yݗ&#x19;�*u_R�&#xc;�&apos;�[��2rW_4&#x1f;�n�f-��&apos;�&#xd;�m�x�un)�V�U�uʼ�	w�&#x16;&#x7;j@&#x8;Jm�&#x1;��Ued�t���J?&#x1e;O��1��+���&#xd;t,S�&#x1e;��������bZ�*L`&#x1d;{��=V�&quot;�$ҁf�T��+�a~�{&#x11;M�����
+�~&#x1c;Lq&#x14;����&#x6;��8�&#x14;�I� �&#x8;[�Ο�z|�Zz��+	܆&#x1d;�*�&#x12;�t
+�����&#x12;�&#x1b;��*l��8A&amp;4��u)ԞpD&#x6;�&#xe;��9&#x1a;)�(��,8&amp;Zf��&#x1a;&#x7;�!�&#x16;�e�Wk���x&#xd;�~{�� �#e*��sN�&gt;�.�X�&quot;�/g~�5l&#x19;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/cf76f4c5-fc4a-4235-8f4d-d570e5700531</java.net.URL>
+</httpSample>
+<httpSample t="225" it="0" lt="224" ct="28" ts="1712928522318" s="true" lb="/submit/firefox-desktop/events/1/a766abcd-cad3-4426-b01a-fd963820446a-15" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="834" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:42 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:42 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 1598
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��UM��6&#xc;�/�&amp;��K��s/����h�&#x1;ڜʒBQ�:;��&#xb;�kg7�uڎ}�H&#xf;�&#x13;�&#x3;�\�q&lt;�q&#xc;S�&#x7f;�&#x16;�Z��\-٤��x�j_	&amp;&#x14;0	L}�rϺO��&#x19;�&gt;W8��&#x18;���Q�&#x13;�WLB�L#!���\&#x9e;fL&#x14;6�&#x14;u�&#x19;�i�R��&#x3;�&#x11;�4&#xc;Ӛ�[���&#x14;���&#x3;�&#xf;��)&apos;SP�2&#x17;&#x16;c&lt;�u��&#x17;��\J���}k&#x3;�Z&#x3;&#xd;�&#xc;&#x14;�[�\*��5�`�*�V//���f0&#x1e;2&#x11;:aN�[N�&#x13;��DE�&#x4;���(�ī{K�&apos;&#x2;&#x1a;-&#xf;LZ��7��R`&#x18;Q�|�U�&#x4;&#x13;\K�&#x1f;&#x7f;N!v�1&#x5;X�&amp;a9���&#x10;&#x94;`��q�&#x12;&#x12;�i^b���c&quot;&#x8;#8&#x4;f�&#x1a;�2hu����a��?�·d&lt;&#x16;&amp;y��c�P�L�ȥ����9�Z�90R�(&#x6;&#x5;�5&#x1;���:�U��F�&#x12;�D�&#x8;�&quot;��t�8&#x7bc;�-~7ɓ��C���&#x15;gm&#x10;A[`mGf
+&#x1a;�&#x15;,�P�AK&#x3;&#x11;xxثS|&quot;�J!J	&#x3;�q&#x0;�!�H|&#x1b;&#x6;��_1����j�BK&#xe;��&lt;��+�G&#xe;��68Ag]_[�w&#x1e;�j�I�&#xf;]餱h�&#x1;��&#x6;Ւ�M]{�t������L��0&#x18;�ܴ҆ &apos;O�5	�3	�1�u�p�K�q��&#x2;�&#x14;�Lk&#xc;V&#x1a;ۏ}&#x6;�&#x1;e�i��$)4&apos;!��`��&#x6;頼m���&lt;�\H�!R��&#x1e;���~�&#x7f;�v�C�S�&#x1d;ߕ�xCo�M�&#x18;�&#x8;�PR�&#x1a;�S&apos;�&#x1;TM&#x10;�&#x1a;�y�8�ܑ���5&#x15;&#x12;O���ҟ1&#x15;��\r&apos;�&#x2;&#x13;�}��I��Xb�wG3�8&#x14;	��z}~�Fv��&#x15;�K����K&#x1f;�y0�7&#x15;8o�&#x2;[X�M.dx�0`4���v3��~E���ܧu��K�&#x2;��&#x15;S$�VEw�U�6��&#x1c;�Tt���&#xd;��&#x1e;&#xe;H�~���V�Я�&#x19;3��瀓y�&#x13;.�&#x14;�rV6�Z��\&#xd;x0K�{�&#x6;�V;k&#x14;p&#x17;h?+����&#x2;�ug&lt;�U�넜���&#x1f;$6]et���j�H[��Ô�P&#x15;���l���C�&#x18;�vW�&gt;�&#x1e;M&#x1a;.���z���o�ؘ�&#x7;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/a766abcd-cad3-4426-b01a-fd963820446a</java.net.URL>
+</httpSample>
+<httpSample t="240" it="0" lt="239" ct="28" ts="1712928522560" s="true" lb="/submit/firefox-desktop/metrics/1/2fc38fe9-fb8c-4801-8dd6-bb3c884acc82-16" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="911" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:42 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:42 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 5896
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��YɎ�&#x11;��&lt;��V&#xe;�%&#x1;�&gt;�0|�&#xd;��4&#x18;&#x8;Z�*M)�&#x1c;IY�=��w?R���Z�&gt;��&#xe;)�&#xc;&#x6;cy�&#x18;�v���C���p8};L���I�O�i.�9�۳;�&#xe;�0�&#x11;�1���&#x13;a�&apos;�D������~&#xc;��g�O����e��i�1bxvc}u~ڗ�&#x1b;1��&apos;��8t�p���ɦ�bt����V.k�1�.C?&#xd;���y�L��&#x9c;r,��&#x11;R���! H���&#x7f;s�������&#x8;EX�
+F���.&#x13;Ԑ�(�2�KK
+�j�)��_/~&#x1f;}{.�S&#x16;u:��+&#x4;W��9�/ҵ�A��oK�t���E�ʲȘc2&#x13;�$Y!e�)���[�-&#xf;k��_ڮ+��&#x1a;�0&#x17;l0te1f�u��&gt;�]S\�9{n��l�v���/�4ç�ur�N�&#x19;���
+Y񁹘���y�U��L�Je&#x5;��L�Fԥ��5�Csa�KV�]�sg7�_&#x5ef;�et��p���(5��&#x1f;]I&#x1b;��LU��&#x4;&#x11;&quot;+&#x8;&#xc;&#x7;u���)��|����0&#x16;��&#x11;5w���}}�J&#x1f;�RU��Zь��B�Fd%�MVq�ʊRa(�P�jz���e&#x18;�&#x3;�TL�M]\_���n�?�ɔ&#xd;��&quot;�&#x14;F&#x11;T���\d��B2B����9�_�d�&#xf;&gt;D:�캌m���I��-���I &#x1d;e��LX����k�hƉ2M��[�%&#x1;�@��&#x5;&#xe;d�&#x16;&gt;��3k�Ղ/�/�XC1��&#x11;&#x7f;;�(1&#xd;kT�&#x11;ca�F��0�dL�ڕ@��6&#x1f;�.8�k!m��-��~��k��u$?ң&#xf;�&#x1;&#x18;v�s1��}x�&#x1;�~&#x7f;&gt;����1����t銯�gJ���z,��u&#x1e;�&#x16;����rP�&#x13;�&#x4;�LK��b�&#x1e;&#x1;��|&#x1d;�F�&#x18;�+��M;Ns&gt;^��.�&#x8;�&lt;#4�|�� t�N�&amp;�;���w�m&#x3;WK&#x4;&#xd;
+�&#xb;�Yf&#x1d;&#x7;�i��2VdN��e�&#x15;�&#x7;&#x1f;z0U[&#x5;`��&#xb;&#x5;�&#x3;�&#x5;/&#x16;���&#x8;���ů~\�ɔ�C�&#xf;s|{8�p���������ǿ&gt;����?�}�&#x11;rQ��0�&#x11;R&#x1;����&#xe;��_��	��5$5E۹:���z������K�QV1.&#x5;&#x17;�&#x13;�t��rM&#x8;;�&#x4;�t`�!�&#x8;E�ă�V){81|�Zqa4���
+�8eڪ BH&#x0;&#x16;f��Ĕ&#x11;&#x10;/��j���&lt;��&#x12;�j�+�c:�DaeHd\3%&#x15;&amp;&#x19;�#�H��J�2�8#�ZTP�-&lt;s�А&#x1a;k(������Z3���oEXn�&#x11;&apos;j�IZ���:&#x8;�D++�&#xd;JY#��D��zp����&#x13;�q&#x16;����&#x1c;zhN&#xd;�V�&#x4;H�A6&#xf;�j�Q��bQ%��ф�K)&#x4;�օF�j*�aYTib&#xc;�5�
+��ZS&#x1d;�I%&#x0;��&#x7;iƛ�P/&#x2;O�ja&#x8;1a&#x16;t�J`!��dQe���_I@?ŭY&amp;	�_��&#x16;&#x10;
+�h�|�Dr+aLog-�4F.��5D&#x1;k��&#x12;f�T~`p�斑��&#x14;�@|&#x1c;&#x4;C(��&#xf;&#x3;�=/&#xd;$&#x12;&#x11;&#x14;�&#x18;�&#xd;�vYVa��%?�*i�4�����&#x15;$|�JZ�&#x15;�yw&#x12;e�*_܄��,�R&#x8;Zō�D�EY&#xe;�&#x10;&#x12;rY&#x18;�H������Dx� �
+�&#x5;�^ֲ�&quot;&#x14;��]��hdT?x&#x7;�������1�!P�����4����!&#x1f;7�6JC��&apos;�a&gt;���3&#x4;�U��CTb��	�7��E&gt;�&#x18;E�Z����7,v+�ዣ8J��^���$&#x12;G�%&lt;(�&#x2;��+����i&#xc;�(��&quot;6&#xe;&#x14;&#x16;&#x1a;z�A&#xb;�
+&#x18;Zt��&#x2;���&#x7;&#xb;��痕A#&#x4;� &gt;G��E׳&#xf;&#x1;&amp;&#xc;&apos;Hc��&#x19;&#x1e;��:6�uz���Rڦ;�a&#xb;��8&#x10;&#x0;����?�����H&#x15;��&#x2;��&#xd;&quot;&lt;&#x6;�d&#x18;&#x1c;����z��^��&#x7;�4��^Ri3&#x1c;I��$y���&apos;���.C�0�A�}�D{G�&quot;I���&#xd;�Q�-RS�o�c&#x2;�)-&#x1e;�@|t�{)�7�;��;�$�NҘ�	^��8���.g�&#xe;��.]hR&#x1a;h&#x12;f�&gt;&#x15;7�J]��1m&#xf;I�l�&#x1;�&gt;�Sl��&#x0;8u־��0�&#x6;&#xd;�2;��&#x14;�h��*-1Ip�&#x4;ViZ_M
+�i��&#x4;&gt;H�����U�&#x14;&#x1f;�&#x1d;X�@E&amp;X�
+�o�&gt;E2��&#x1f;I�&#x17;IR��Ն��nZ��}m��x�&#x12;&#x3;v�b;,N�&#x12;IK&#x2;K�!I
+�.ϒ�Kф:�]u!&#x1f;ӛ&#x1b;@�{Z���&#x1b;��&#x14;H��ȥ@��Ύ&#x6;��{&#x3;&#x15;y&#x7;�i&#x1;�0�0�R����&#x7;0��&#x8;4i�&#x0;����:��K&#x1f;�y1W�n�_�v�&#x3;�-Z�.+�5l؆|&#xd;d���]no&#x1e;3)MJ���&#x1c;�ę�����ĝ��$�&#x1f;��LM�v4��a��u����&#x1b;&#x10;����&#x1c;&#x10;	&#x0;y�a2MAP%��v��$ئ�|C�4QY
+��&#x6;�F&amp;��v�`��|&#xb;�W�i�/�&#x1b;�H!���9E�&#x1d;�ǜ&#xd;�T�?6Mq�&#x16;$�B&#x6;O@��Ո�&#x1;)	Cg&#xc;&#xb;�&#xf;��u�o�2��&#x1b;�!�?!w�x�cVhd-�������K�䮗)GO0��C�&amp;&#x1c;��Q����&#xf;�i�%.�&#xf;���jn��&apos;�Fr&#x18;&#x14;��&#x2;&#x7;�
+�G|�_��&#x19;Ǻ&#x7;W&#x17;e�&#x8; &#x11;&#x10;)�P=��O�e�&#x11;�,���&#x5;&#x1d;ֵ�|�}r�&gt;&#x17; �c���ݜO�G�w&#x7;g&#x11;&#x8;��f�S�r&#x2;9����U��Zi&#x15;_�8�3�	�S�]g�n&#x1d;}�&gt;���(�c�����r\����s�7&#xe;�&#x3;�3��&#x17;�.]&#x1b;l�!���&#x17;�E0o1qu�&#x6;@ye��&lt;ݛ��7�,4�]jd��&#x1b;6fR�L��G���kWx��&#x2;�.*��:WÂt�1b��2&#x1f;&#x1d;��&#xf;5&#x7f;��;j��u(e�[&#x11;���&#x13;�^bV�&#x1a;v��t�i�`��&#x11;8vK��7D��&#x7f;h{w����� b���øC�&#x15;�����n|l��&#x1e;�8ϗ���w///Ǉa��Gl�e�&#x1f;���&#x1f;�rq��%+��w?���@^��&lt;�&#xcdb;뼧P����&gt;?�&apos;u&#x1e;�&#x8;&#x1b;T��&#xb;Wu�������e�q�1&lt;�&#x1;&#x2;e�&#x10;&#x1b;��}���	�	��&gt;�@��&#x3;�FzX&#x6;�
+Ϝ0lM{��&#xd;-Ew&#x1e;�&#x3;��a=��צ��&gt;���&lt;���r&#x14;�*+U]k��T��E&#x1b;�x�l�&#x7;G�gb�g����	�&#x1b;����―Ɂ�ę,�L&#x1a;I~��&quot;�ҕB�&#x2;&#x19;��k�@D&gt;&#x1f;55+9��Υr{�&#x17;�l�T6&#x1e;K�\���&#x8;�&apos;�u&#x7;���H�M&#x1c;Nb�&amp;�&#xb;&#x15;��bW��s�z�����I&#x13;��+���~��*ro&#x19;y&amp;��+r9&#x1a;�7��c�J&quot;�!sml��w&#x1e;[%;��5U[�{�.��&lt;�p��&#x16;�u&lt;m���m�G&#x10;�¥Dh+���5��Nk_�۬���}��+F܍~&#x17;&#x1b;зm�֣�!�zWd2�]q݀L&#x7;��]�&#x1f;��&#x1e;�&#x1f;&#x17;��S&#x1c;&#x1f;o�����[�@�&apos;�H=���&#x1;�^�ʫ[&#x15; ���s�w�Z&#x1e;�.��w�O��;(U�#��f+ͽ�u.�&#x10;	��c����-�&#x1;���8Jb���pkk?b뻶�g�n����&#xf;h$,}���&amp;�퀿�\&#x16;&#x6;�{C@W`��P&#x7;O�@��)?�]�z&#x7;�D�&apos;;x�&#x8;CW�F�.6х���W��0?(&#x16;��&#x4;����ՉFd�&#x0;��|-�&#x19;7�;b0&#x1d;�z�&#x1f;z�&#x1e;Π1��뺤�J&#x18;^�;J�b�%�S뎥��&#x18;�c?�g�,\{�L�(|�-�7X�&#x1;d���^�xu�&#xe;m&#x1f;�y85E79&#x7f;��&#x13;(��c&gt;�9nG�e�&#x10;J�n�&#x18;&#x7f;��e��&#x6;�3a&#x7f;g�p��#ݒw!&#xb;v�;_��2;�����.��m&#x1d;XR�\]^�@i@����q�^:��-�4�*&#xb;�Ѫ�&#x5;�(Ef�+3\e٢&#x6;K&#x5f5;�&#xe;~�?�ij7�=���m{��&#x7;��Ԣ+ &#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/metrics/1/2fc38fe9-fb8c-4801-8dd6-bb3c884acc82</java.net.URL>
+</httpSample>
+<httpSample t="194" it="0" lt="194" ct="32" ts="1712928522817" s="true" lb="/submit/firefox-desktop/newtab/1/b6b2e564-51fe-43dc-ad88-807cb4584c05-17" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="752" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:43 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:42 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 797
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;�}Rю�0&#x10;�&#x17;�^@�!!�XU�&#xf;�[UY&#x6;6�u��yM��ĿwM&#x2;�Tw&apos;YB�������&#x6;�ʸ�g�&#x1b;CxeM��0�:D&#x15;�&#x19;X�$�eƋ��Ϣhx��y�9�0p�#��L��?qq�&#x4;��&#x1d;1:&#x7f;&#x1e;�&#x3;&#x17;���lڰΚ���&lt;��3�pUؿ�v4�&apos;ٶ�E�
+&#x1d;L����T��%y&#x12;�(VC�h�E]�s�&lt;�tV�&#x1e;&#x6;՝�s`�&#x19;��F�w�t���Ÿ�
+��D��&#x18;R�?��ڕ3K���f�K&#x16;y�/5&#x17;��&#x1b;��R&#x14;����`op���N+D5K�$f��V�W2���fe�k�ZJ�AY&#x1d;d��b&apos;DJ/Ee:Lɽ��E&#x13;�s�~@�y�&#x17;&#x2;Ŕ�&#x19;Ғ���&#x18;&#xe;.Q�yk}�&#x2;�B�
+�@ܟ���zOa��R�tk���0&#x86;&#xd;I&#x18;�&#x7f;��EH�}&quot;1��&#x1c;&#x1d;u�|���H����Џ��p�&gt;&#x18;�G�:�!O�&#xc;�&gt;���8�@&#x11;�E�Z�}��PV�&#x8c;d?��i��&#x2;��/�:&#x3;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/b6b2e564-51fe-43dc-ad88-807cb4584c05</java.net.URL>
+</httpSample>
+<httpSample t="208" it="0" lt="208" ct="27" ts="1712928523029" s="true" lb="/submit/firefox-desktop/newtab/1/ecb66e7a-98f2-452c-8be6-f72de736362a-18" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="752" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:43 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:43 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 2263
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��VMo�6&#x10;�/�n� %��Ǣ@���&#x16;&#xb;��F6���%)&apos;� ��C���Y&apos;AS�(�$&#xe;�&lt;���S2�aӘ����)��=Y��]�t�	f��:IY*��?�̳�`�&#x18;_3��%8�����ơ�v �&#x1;�T�G�&#x1d;&#x1a;�&#x1b;&#x11;&#x1e;Ft�0&#x4;&#x1f;���&#x3;���&#x10;�&#xb;���&#x1e;Rp���N&#x1;&#x1c;����y&#x1e;�����&#x12;t�@F3^p2���1�&#x1a;�NM~F ��r|�&#xe;�li�Α�E�A�u&#xb;&quot;�+P&#x1c;9d��:��s�&apos;��w���0}/��v&quot;�&#x10;��t��&#x10;�&#x0;-vr�&#x3;�7��&amp;&lt;&#x2;&gt;&#x18;&#x1f;H\�&lt;�&#xb;��4	�&#x2;�&#xf;PN���یd*8&#x3;!t&#x1;��D��D��,î�)&#x1f;&#x11;�v��a|�[�&#x11;:���v�֑����&#x4;�7��`i�ʔC�&#x14;��&#x15;���&#x11;�T5�,m�����߃ٍ��&#xc;�	��	&#xe;R�&#x8;?��9��]��~���+҆�1���,�d�2���h���DNӸq�ŨN��f&#x1b;�RZ&#x2;�&#x6;&#x15;�&#xb;V�&#x5;&#x7;FN�J&apos;@��&#x3;��Bi�E�ٛT(kF�&#x14;&#x1e;�f��=�Vat�7v�IH�P�&#x17;���A�;�)(t[�`�N2R������d��&#x588;�q�5�agH�@�`�S,��&#xf;�Z&quot;V\��}��U]�&#x15;
+XUS&#x10;�&#x2;�JY&#x7;�hKT�h:&#x7bd;MPo��q��,g�n�ȤB�$��� *�K�y&#xb;&#x5;=�&lt;�YVg�{N��Ю��.�k|��Q��#^���*��d=W��K��&#x14;j��II&#x12;�i*&#x1;E٥��Y�9m��شƏ�|l��b$�j��&#x1;���a�&gt;��PX��&apos;�aƪT�,-�&#x18;lKş�.ݽ&#x19;�3�4[�&#x3;��[j&#x13;:L.*�P&#x15;M!�{g�&#xf;������8
+2`&#x1c;x����&#x10;�&#x1d;��y]�����y��G��gI*��^4MQ���Ǎԏ�E�չf��B+)�뎲Y(&#x1;U�
+(aj��\�m&#x19;q&#x15;�k��&#x1c;�c�[--�9�&#x18;�&#xb;n»�Zy�g^�X&#x1c;����l�&#xf;�&#x19;��u�&#x17;_&#x17;�&#x5ed;�o��&#xc;�J�Xw��&#x18;[&#x1;i2l&quot;�#����(7�h�tc���&apos;�P]xò��h:�&#x1e;T�X�����W�љ=�^�&apos;�$�!~��Ѥ�Z�8��&#x1f;�E�Or&#x8;4&#x12;/�w���̗�5=�˳#�&gt;*B�&#x1e;t&amp;�/_���&#x1f;.&#xb;_&#x8;�.&#xe;tQٍɚQ%��t����|9�#&#xe;؞�����qI*��u�s9A&#x13;��1����SlEG7&#x2;��i�&#x2;&#x15;��&#x2;&#x5;C�q���s�:&#x17;txu�g��&#xb;#��p&#x11;:g�a�wIL�SFҾ9s��V&#x4;u(��W���X��*����&#x7f;���I�kҾd�����6�ſ���&#x15;�e�?��N�zE&#x70e;e�OY��_��G&lt;�%ˢ,�x������&#x16;~�y��B
+����&#x2;��t�U���W2E&#x14;y!�����_@&#x1a;���&#xe;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/ecb66e7a-98f2-452c-8be6-f72de736362a</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="243" ct="27" ts="1712928523253" s="true" lb="/submit/firefox-desktop/newtab/1/2f2958b7-b60a-4d5a-9f54-88d801f44146-19" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="747" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:43 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:43 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 1916
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Vێ�8&#xc;�&#x17;��&#xc;$[��q��b��V&#x14;�.T&quot;Ա\I�L:�&#x7f;_ʹLf0�&#x2;�&quot;F Q$u�#�z*f7�&#x6;7Y_l���?�m�}.b�!&#xd;�&#x1d;��&#x16;%+&#x5;0��/��
+���-c��&#x2;&apos;�[��2��4&amp;|HR&#xd;&#x11;ct~&#x1a;�6{x�1��)ż?�=&#x4;?�����*�I��8&#xb;�,[� �Z:�y��&#x1d;�&#x12;�Na����_C�}%&#x15;*%�Ĳ&#x6;�)&#x6;��&#xd;44�yճ������1N&#x19;Z���&#x5;�h&#x8;����C�&#x7;�S&#x6;&#x3;�7���&#x1;j?%�&#x7f;&#x0; g�-m��u=&#x3;a&#x1b;��d&#x16;JaZT&#x14;W��
+��&#x7f;�q�Rk�P� y?*&#x19;@-)&#x11;T�V.c���N�ѥ&#x13;&#x8cb;���%bx&#x5;7&#x11;-)C&#x0;�&#x1;�eӛ�T&#x6;t�	��&#xd;Hn&#xc;��
+�ڪBۮ���&#x2;i&#x10;����v��n�n`�R�u����&#x10; �&#x15;�XkAW�Q�s��|��?@�r&#x19;��&#x10;�2`&#x1e;&#x1c;��&#x8;և&#xc;p�&gt;�����%�&#x7f;�݆�+e��2���c�55&#x2;��g���i���&#x18;�A��8�&#x1;S8]}�&#x1c;����	����)`��e��F�&#x16;&#x4;��JF�A�rQ�VZݭ�t&lt;^s &#x10;6&#x19;�]&#x12;q�jDx��&#x0;�NY�u&#x12;ZNH&#x4;�;P�&#x12;PU��KƉ�3��{$����&#x15;&#x1e;�#���q��y��h��&#x16;5�8����\�&#x19;&#x1;r�X�Y]Ҹ�&#x7f;q��x����J��!��Zܘ���&#xd;��&#xb;{�^�J֭dm	=VT�Z�	}YJ@���(Y5����c02e&#x8;�o&#x19;0J&#xb;�����}Z�IѺ&#x10;�&#x10;��LŤ�ʼ���8&#x1c;1䲗&#x5eb;�XQɠ��&#x4;:-!�=v�Ј,����8��tg�y{��U��ӄc.�g&#x12;.���3&#x4;֕�We[w+&#x0;��-Ã���,���5�&quot;��7�T����?6j��;�ᒱ���&#x1b;��X䔨�!���&amp;�&#x7;Z�&#x10;-9�Oň;�O�&#x1b;)�����&#x1a;��&#x0;�-��P&#x2;�&#x1a;&#x15;P5��hM�1**�(��o�`��|��G
+&#xb;~�J]&#x1c;��M&#x4;�ζ�r�/k��3���8��q;���_&lt;�Ѹ&#x4;*bf�y�3kT�����s&#x13;n.��2=&#x7;d���rZAn�&#x17;��6��F�|8�2�N�&#x18;�#�+��_/�?�,w���k8spG�z&#x5;�ܦ����W�&#x1e;&#xe;�P9�ŖQ&amp;�8=�7���D�&gt;��O��)r�����U]�&#x11;�r]ֹR&#x1b;�ǁ�&#x6;&#x5;Cj����3A���&#x1f;�6+&#x10;5	&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/2f2958b7-b60a-4d5a-9f54-88d801f44146</java.net.URL>
+</httpSample>
+<httpSample t="239" it="0" lt="239" ct="30" ts="1712928523513" s="true" lb="/submit/firefox-desktop/messaging-system/1/0f29e550-4f6e-4cf0-befe-d8e2f4757aad-20" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="896" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:43 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:43 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 1633
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;���Mo�6&#x10;�����II����Z�(z*���&#x2;&#x2;?�6QYRI�&#x1b;�&quot;��C%v�]�@��&gt;P×Ç3��j	�n&#x8;����oU¿�����R�1&#xf;9&#x1c;�z�&#x4;&#x13;&#x12;X&#xd;L~��&#x3;�?0��XuW���k�/�F�&#xf;��j�&#x16;���r*;��C��&#x11;�5�o&#x13;�d��&#x18;����Qoک&#x18;��?&#x1c;)�Z&#x1b;4F�@р�&#xc;&#x3;�4&#xe;&#x14;�&#x1a;^���kZ�OK&#x1;����	�n���*��&#x10;&#xe;�&#x1c;3D&#x1c;Q&apos;�L�%�I�&#x11;�_�&#xd;��x�u&#x1a;ZN8�7&#x1d;&#x18;^K��N7�q#ew��u&#xc;����&#x11;��8&#x7;���&#x8;i��4Gt��%���&#x1d;���L&#xe;��]���{nń&#x17;Zp�� qw&#xc;:� `kz��p��&#x1b;&#x1f;9�)&#x5;&#x80;C�E�i&#x8;a:��K���&#x3;���P^&#x1;�&#xe;���&#xb;�&#xc;���&#x0;z��	�AHע�����&#xc;�!&lt;Qx�F�&#x12;F&lt;�&#x8;�Rb�Ds��G��A.T�A��&#x3;��%�ȡf��V�X57�&#x12;�&#x5;4��&#x10;&#xe;���&lt;&#xb;K�c�I�g&#x2;�������&#x6;�u-H&amp;%hFUٻ�˦����%d��0�Z[;�t-�b&#x1e;��`֜)�&#xe;�^�&#xc;ǐ�	c�&apos;���25
+X�P�psD�&#xb;&#x2;�&#x1b;�&#x14;� \MyR��,�&#x2;�&#x1d;EUy�L[��ۛ�\&#x17;�=��B�1���j�]`n�X�X�&#x14;&#x7;Fw�*�K0��`k���\v��@���&#x18;�ۥi^�;$��`�0�}����&#x17;O�ap:&#x17;&#x7f;�o&#x19;0ڜ&#x7f;ښ(�/�ԇ��&#x10;��,�ꯋ��&#x17;�L&#xd;��U�/a�/&#x1d;힚��k,��N&#xd;J&#x16;��&#xc;v��	��Y_���z8b,��x���&#x6;X�.�eԧ7Ӝ����
+&#x10;��h&#x1b;�%*%:w�[WJ4�vet�����+�2&#x1e;�7�5���0���誖G��G�6Cڟ?&gt;&#xe;�&#x1f;��&#x1e;&#x1f;�|��&#x1b;g�G�Z6���5�vn��&#x1e;��&#x13;d*���&#x1b;İ5���&gt;W���յ]^&#xc;8�&#x12;��&apos;]��k���:g$&#x1b;��PB&#x19;F����Ȟs��l�نS&#xb;j���&#x15;?�&#x3;F�D�&#x7;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/0f29e550-4f6e-4cf0-befe-d8e2f4757aad</java.net.URL>
+</httpSample>
+<httpSample t="222" it="0" lt="222" ct="29" ts="1712928523768" s="true" lb="/submit/firefox-desktop/messaging-system/1/5f462d1a-0b6a-4201-8cfa-70025439ec44-21" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="790" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:44 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:43 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 1607
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��U�n�6&#x10;�&#x17;�&amp;�&#x14;EI���AЇ�@��&#x0;&#x2;/C/Q����z� �ޡlo]g�A��&#x5;w43���E��%L7C��\�&gt;W	��v={]��c&#x1e;r8`��&#x4;&#x13;&#x12;&#x18;}�&#x7;^�${�����u�����i�H&gt;SN&#x5;��#��2�&#xc;&#x11;G�	!��8��&lt;5QOvO�p�fD��{˔�.^�n)�S8�5��&#xb;�r.P�:z�&#x19;O�NC�&#xd;&#x3;ɛ&#xe;&#xc;�%�u�&#x1b;������|�8�߲�s&#x16;OR?b?��km�&#x18;&#xd;&#x2;E&#x3;�# �4&#xe;&#x14;�&#x1a;^���k
+��x�&gt;e�R��&#x4;�p&#x13;u�#��Q���IG&#x7;���2�y�d&#x7f;� g�&#x17;^&#x19;`]O&quot;x��	�AHע��y�_$x&#x8;&apos;tP�(%�x�&#x11;�Y�s&#x11;9o���?��o�&#xb;Us�}�@6})&#x1b;r���&#x15;tV���!&#x3;�&#x1e;�^G,��&#x1c;,��#��4�#q��B��?�S��Ђ�g&#x6;�}:&#x6;�j&#x10;�5=�L8�򗕛?�q���y��&apos;&#x1e;�ht&#x4;��LEv��:f8�&#x14;L&#x18;C�&#x3;&lt;��i&#x1e;aM&#x18;�E7GԹP&#x3;�&#x1d;�
+ջ��TFũ	�U��#q��δu���(&#x13;�&#x2;�$��&#x1e;0ǻǜ�D&lt;�y-��Zw?��
+&#xd;��6��kA2)A3�!��e�z�����&#xb;͆�R�&lt;��}�8&#xe;g������uNq`�&#x17;��^�a�&#x7;[se,�㌨&#x14;2v&#xc;&#x14;u^�g����&#x1c;�&#x1a;ƒ����UY��ap:&#x17;&#x16;�o&#x19;0&#x2;�&#x1f;&#x18;�m�W�/9�&#x10;S&#x1e;�:=:�t�ř�g&#x1f;&#x1d;�z��5&#x16;�S�&#x6;%�&gt;�ሱ�&#x12;W_�&#xd;Z/�`�z�p,��~T&#x1f;�.�e�wO�8o�Q��(&#x14;X&apos;$�E�t&#x1b;&#x10;Y&#x7f;��6LU�q�w��^��V�&#x3;��o�[%ݥ��+Z&#x19;�ֶA�G����k��	oa���cU��:�ހC(&lt;��t�[���&#x2;&#x6;��H6�Ƚ?&#x13;J(�h&#x1b;&#xb;�&#x0;��&#x1c;��-0�p�/�ђ����O7&#x17;S���#n�&quot;x��%��9�{��s����^�&#xf;&#xd;�N&#xe;S(&#xb;j&#x13;(]�ߞ���������?���^_�y�����ߨGwM�&#x7;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/5f462d1a-0b6a-4201-8cfa-70025439ec44</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="30" ts="1712928524006" s="true" lb="/submit/firefox-desktop/baseline/1/7d3fe312-1b93-4753-af10-c0956c6c95ac-22" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="953" sc="1" ec="0" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 12 Apr 2024 13:28:44 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Fri, 12 Apr 2024 13:28:43 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+content-encoding: gzip
+Pragma: no-cache
+Accept: */*
+x-telemetry-agent: Glean/53.1.0 (Rust on Darwin)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Sec-Fetch-Dest: empty
+Content-Length: 1691
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;���ˎ�8&#x10;E�E�t&#x19;|���lf�{���MD�4$�n��&#x7f;��&#x1c;;���&#xc;&#x2;iAHŪ����[���0������J�O���S���y��վ&#x12;L(`&#x12;�z�r��/��&#x19;��*���&#x18;zE�Q�&#xb;�ט�:�&#x13;Eh��&#x19;ˬ�&#x5;#͚r*5��&#x10;�CH˜�p8f��8�k.?Mԓ=��Lyr��%�Q��8����oG1�6�s&#xd;&#x7;f�&#x2;Ž&#x2;�Z&#xf;V��X�U�&#xb;Q�,�x
+&apos;��{��߉�:��C:�ep��E�s,�S�#:��B����S�&#x4;�|&#x1f;Wz���a�&#xb;-8xf��;&#x6;]S#`kz��pM�7���-�����+�G&#x1c;�ht&#x4;��&lt;O���u�p&#xe;)�0�|&#x1;|&#xd;)�&#xe;Ú0~,(���,���N:�&#xd;g��m@s�@5^9�J��ݐ��&#x2;�$�&#x11;O���&#x13;���0�e&#x15;�y���D�=�&#x6;&#x1a;�ZP�&#x1a;A3Àp��[���Z�W��R�h0�&#x19;G&#x10;[^(t�xuB&quot;�&#x7f;G�&#xb;A_#&#x17;����&#x4;��&#xe;&#xc;G&#xe;�5����M�i&#x17;�=�9��~X�&#x7f;T��ڠ1&#x1a;&#x4;�&#x1a;TG��v�Ш�g���گ$G
+��p
+t.3&#xd;!�{Z��%|�ё(͇����p�y�&#x1b;&#x3;��o|��	�A(ע!&#x13;��&#x7f;*�M�&#x1b;�m�&gt;&quot;�I�&#x11;�g�&apos;L���t&#x1a;ZN�(^�&#xd;�
+��t-&#x18;&apos;3�&gt;aڨ�@��6zo�!���Y�X��r�wŀ��&#xc;.�eԗጱ�]�����m
+	&quot;Y&apos;&#x14;���&#xb;���H�c�&#x1a;&#xb;�k�&#xc;���3yQ���/a���&#x1e;�4�X���&#x16;�POȝ�
+n�&#x6;�s����&#x1;#&#xb;�ϛ��{�{&#x1f;b�C\�[p�+�\�cnJl��n5k&#x5;�(��Z��^&#x8;&#xd;�Z/�Ѳ��kt&#x14;I�`77&#x74c;��T�&#xb;��&#xe;��&gt;`٭��
+�+�~�hNS&#x5f5;Tz�F&lt;h{�݅�=r��&#x1a;k�&#x2;n=y�2
+�&#x1a;&#xd;P����Z��-&#x1c;#&#x1d;�&#x11;��&#x0;q ��Y��mgaW��4�՜Bθ�6$�&#x18;&amp;&#x12;�S����&#x1a;/�JI&#x1f;���K�x���a�\=U&#x13;�dm��,=T4�^�&#x1f;��)�q^�;�y�C}j�&#x7f;&#x1;#����&#x7;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/7d3fe312-1b93-4753-af10-c0956c6c95ac</java.net.URL>
+</httpSample>
+
+<httpSample t="147" it="0" lt="147" ct="29" ts="1712928571504" s="false" lb="/-23" rc="403" rm="Forbidden" tn="" dt="text" de="UTF-8" by="334" sc="1" ec="1" ng="0" na="0" hn="Administrators-MacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 403 Forbidden
+Content-Length: 134
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 12 Apr 2024 13:29:31 GMT
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-GB,en;q=0.5
+Host: preprod.author.eqbs.gcp.onsdigital.uk
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1&quot;&gt;&lt;title&gt;403&lt;/title&gt;403 Forbidden</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://preprod.author.eqbs.gcp.onsdigital.uk/</java.net.URL>
+</httpSample>
+
+</testResults>
